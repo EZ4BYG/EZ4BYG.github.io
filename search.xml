@@ -4,13 +4,390 @@
   
     
     <entry>
-      <title>Second English Article</title>
-      <link href="/2022/12/05/cs1/"/>
-      <url>/2022/12/05/cs1/</url>
+      <title>Linux文件夹中的第1篇</title>
+      <link href="/2022/12/05/Linux/2022-12-07-Linux1/"/>
+      <url>/2022/12/05/Linux/2022-12-07-Linux1/</url>
       
-        <content type="html"><![CDATA[<h1 id="Test"><a href="#Test" class="headerlink" title="Test"></a>Test</h1><p>Some contents in the article.</p><p>$ \hat{\mathbf{Z}}^{\dagger} \mathbf{J}&#x3D;\mathbf{J}\left(\hat{\mathbf{Z}}^{\prime}\right)^{-1} $</p><p>If the math formula can be shown correctly.</p><h2 id="二级题目测试"><a href="#二级题目测试" class="headerlink" title="二级题目测试"></a>二级题目测试</h2><p>是否在右边栏显示2级标题？—— 会的！Categories</p><h1 id="Code"><a href="#Code" class="headerlink" title="Code"></a>Code</h1><figure class="highlight matlab"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br><span class="line">56</span><br><span class="line">57</span><br><span class="line">58</span><br><span class="line">59</span><br><span class="line">60</span><br><span class="line">61</span><br><span class="line">62</span><br><span class="line">63</span><br><span class="line">64</span><br><span class="line">65</span><br><span class="line">66</span><br><span class="line">67</span><br><span class="line">68</span><br><span class="line">69</span><br><span class="line">70</span><br><span class="line">71</span><br><span class="line">72</span><br><span class="line">73</span><br><span class="line">74</span><br><span class="line">75</span><br><span class="line">76</span><br><span class="line">77</span><br><span class="line">78</span><br><span class="line">79</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">%% Information</span></span><br><span class="line"><span class="comment">% Title: AESM1590-EX4</span></span><br><span class="line"><span class="comment">% Time: 30-11-2022</span></span><br><span class="line"><span class="comment">% Name: Boyu Gao + Miaoyang Yuan</span></span><br><span class="line"><span class="comment">% Group: 7</span></span><br><span class="line"></span><br><span class="line"><span class="comment">%% Clear</span></span><br><span class="line">clear all;</span><br><span class="line">clear variables;</span><br><span class="line">clc;</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="comment">%% Read data</span></span><br><span class="line"><span class="comment">% Note: geo(3) = 60: number of shots ns. Finally, we will plot all 60 shots. </span></span><br><span class="line">filename_data = <span class="string">&#x27;slopesurf.segy&#x27;</span>;</span><br><span class="line">[Data_ex4, H_CSP, geo] = segyread(filename_data);</span><br><span class="line">[Data_CMP, H_CSP_CMP] = sortdata(Data_ex4, H_CSP, <span class="number">5</span>); </span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="comment">%% Velocity parameters</span></span><br><span class="line"><span class="comment">% midpoint</span></span><br><span class="line">midpnt = [<span class="number">1200</span>, <span class="number">2000</span>, <span class="number">2600</span>];</span><br><span class="line"><span class="comment">% when cmp = 1200</span></span><br><span class="line">t_1 = [<span class="number">74</span>, <span class="number">227</span>, <span class="number">296</span>].*(geo(<span class="number">1</span>)*<span class="number">10</span>^(<span class="number">-3</span>));</span><br><span class="line">v_1 = [<span class="number">2010</span>, <span class="number">2010</span>, <span class="number">1800</span>];</span><br><span class="line"><span class="comment">% when cmp = 2000</span></span><br><span class="line">t_2 = [<span class="number">215</span>,<span class="number">262</span>,<span class="number">305</span>,<span class="number">384</span>].*(geo(<span class="number">1</span>)*<span class="number">10</span>^(<span class="number">-3</span>));</span><br><span class="line">v_2 = [<span class="number">3500</span>,<span class="number">2000</span>,<span class="number">2500</span>,<span class="number">3900</span>];</span><br><span class="line"><span class="comment">%when cmp = 2600</span></span><br><span class="line">t_3 = [<span class="number">262</span>,<span class="number">296</span>,<span class="number">348</span>,<span class="number">384</span>].*(geo(<span class="number">1</span>)*<span class="number">10</span>^(<span class="number">-3</span>));</span><br><span class="line">v_3 = [<span class="number">2000</span>,<span class="number">2200</span>,<span class="number">3900</span>,<span class="number">3900</span>];</span><br><span class="line">t = &#123;t_1,t_2,t_3&#125;;</span><br><span class="line">v = &#123;v_1,v_2,v_3&#125;;</span><br><span class="line">tvpicks(:,:,<span class="number">1</span>) = [<span class="number">74</span>, <span class="number">227</span>,<span class="number">296</span>,<span class="number">296</span>;</span><br><span class="line">                  <span class="number">215</span>,<span class="number">262</span>,<span class="number">305</span>,<span class="number">384</span>;</span><br><span class="line">                  <span class="number">262</span>,<span class="number">296</span>,<span class="number">348</span>,<span class="number">384</span>].*(geo(<span class="number">1</span>)*<span class="number">10</span>^(<span class="number">-3</span>));  <span class="comment">% add the same number of last one in t_1 to make it fit</span></span><br><span class="line"></span><br><span class="line">tvpicks(:,:,<span class="number">2</span>) = [<span class="number">2010</span>,<span class="number">2010</span>,<span class="number">1800</span>,<span class="number">1800</span>;</span><br><span class="line">                  <span class="number">3500</span>,<span class="number">2000</span>,<span class="number">2500</span>,<span class="number">3900</span>;</span><br><span class="line">                  <span class="number">2000</span>,<span class="number">2200</span>,<span class="number">3900</span>,<span class="number">3900</span>];                <span class="comment">% add the same number of last one in v_1 to make it fit</span></span><br><span class="line">smute = <span class="number">0.05</span>;  <span class="comment">% 0.5 / 0.05</span></span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="comment">%% NMO</span></span><br><span class="line"><span class="keyword">for</span> mid_tmp = <span class="number">1</span>:<span class="number">3</span></span><br><span class="line">    [Data_CMP_out,H_CMP_out] = selectcmp(Data_CMP, H_CSP_CMP, midpnt(mid_tmp));</span><br><span class="line">    t_matrix = cell2mat( t(mid_tmp) );</span><br><span class="line">    v_matrix = cell2mat( v(mid_tmp) );</span><br><span class="line">    nmo_vlog(Data_CMP_out, H_CMP_out, geo, t_matrix, v_matrix);</span><br><span class="line"><span class="keyword">end</span></span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="comment">%% Find CMP locations + Generate velocity model  </span></span><br><span class="line">[gather_positions, gather_folds] = analysefold(H_CSP, <span class="number">5</span>);</span><br><span class="line">vmodel = generatevmodel2(midpnt, tvpicks, gather_positions, geo);</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="comment">%% Stacking the NMO-ed data</span></span><br><span class="line">[Data_CMP_out,H_CMP_out] = selectcmp(Data_CMP, H_CSP_CMP, midpnt(<span class="number">1</span>));</span><br><span class="line">gather = nmo_vlog(Data_CMP_out,H_CMP_out,geo,t_matrix,v_matrix,smute);</span><br><span class="line">gather_stack = stackplot(gather,geo);</span><br><span class="line">title(<span class="string">&#x27;without smute&#x27;</span>);</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="comment">%% NMO to all the data and stack them without smute</span></span><br><span class="line"><span class="built_in">figure</span>();</span><br><span class="line">[cmp_positions, cmp_folds] = analysefold(H_CSP_CMP, <span class="number">5</span>);</span><br><span class="line">zosection = nmo_stack(Data_CMP, H_CSP_CMP, cmp_positions, cmp_folds, geo, vmodel, <span class="number">0</span>);</span><br><span class="line">imageseis(zosection);</span><br><span class="line">xlabel(<span class="string">&#x27; the spacing between CMPs &#x27;</span>);</span><br><span class="line">title(<span class="string">&#x27;without smute&#x27;</span>);</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="comment">%% NMO to all the data and stack them with smute</span></span><br><span class="line"><span class="built_in">figure</span>();</span><br><span class="line">zosection = nmo_stack(Data_CMP,H_CSP_CMP, cmp_positions, cmp_folds, geo, vmodel, smute);</span><br><span class="line">imageseis(zosection);</span><br><span class="line">xlabel(<span class="string">&#x27; the spacing between CMPs &#x27;</span>);</span><br><span class="line">title(<span class="string">&#x27;with smute&#x27;</span>);</span><br></pre></td></tr></table></figure>]]></content>
+        <content type="html"><![CDATA[<h1 id="Matlab文件夹第1篇测试"><a href="#Matlab文件夹第1篇测试" class="headerlink" title="Matlab文件夹第1篇测试"></a>Matlab文件夹第1篇测试</h1><p>类型属于Linux</p>]]></content>
       
       
+      <categories>
+          
+          <category> Linux </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Matlab </tag>
+            
+            <tag> LaTeX </tag>
+            
+            <tag> Linux </tag>
+            
+            <tag> Mathematics </tag>
+            
+            <tag> Algorithms </tag>
+            
+            <tag> Signals </tag>
+            
+            <tag> Software </tag>
+            
+            <tag> Others </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>LaTeX文件夹中的第1篇</title>
+      <link href="/2022/12/05/LaTeX/2022-12-07-LaTeX1/"/>
+      <url>/2022/12/05/LaTeX/2022-12-07-LaTeX1/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Matlab文件夹第1篇测试"><a href="#Matlab文件夹第1篇测试" class="headerlink" title="Matlab文件夹第1篇测试"></a>Matlab文件夹第1篇测试</h1><p>类型属于LaTeX</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> LaTeX </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Matlab </tag>
+            
+            <tag> LaTeX </tag>
+            
+            <tag> Linux </tag>
+            
+            <tag> Mathematics </tag>
+            
+            <tag> Algorithms </tag>
+            
+            <tag> Signals </tag>
+            
+            <tag> Software </tag>
+            
+            <tag> Others </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Software1文件夹中的第1篇</title>
+      <link href="/2022/12/05/Software/2022-12-07-Software1/"/>
+      <url>/2022/12/05/Software/2022-12-07-Software1/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Matlab文件夹第1篇测试"><a href="#Matlab文件夹第1篇测试" class="headerlink" title="Matlab文件夹第1篇测试"></a>Matlab文件夹第1篇测试</h1><p>类型属于Software</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Software </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Matlab </tag>
+            
+            <tag> LaTeX </tag>
+            
+            <tag> Linux </tag>
+            
+            <tag> Mathematics </tag>
+            
+            <tag> Algorithms </tag>
+            
+            <tag> Signals </tag>
+            
+            <tag> Software </tag>
+            
+            <tag> Others </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Algorithms文件夹中的第1篇</title>
+      <link href="/2022/12/05/Algorithms/2022-12-07-Algorithms1/"/>
+      <url>/2022/12/05/Algorithms/2022-12-07-Algorithms1/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Matlab文件夹第1篇测试"><a href="#Matlab文件夹第1篇测试" class="headerlink" title="Matlab文件夹第1篇测试"></a>Matlab文件夹第1篇测试</h1><p>类型属于Algorithms</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Algorithms </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Matlab </tag>
+            
+            <tag> LaTeX </tag>
+            
+            <tag> Linux </tag>
+            
+            <tag> Mathematics </tag>
+            
+            <tag> Algorithms </tag>
+            
+            <tag> Signals </tag>
+            
+            <tag> Software </tag>
+            
+            <tag> Others </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Matlab文件夹中的第1篇</title>
+      <link href="/2022/12/05/Matlab/2022-12-07-Matlab1/"/>
+      <url>/2022/12/05/Matlab/2022-12-07-Matlab1/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Matlab文件夹第1篇测试"><a href="#Matlab文件夹第1篇测试" class="headerlink" title="Matlab文件夹第1篇测试"></a>Matlab文件夹第1篇测试</h1><p>类型属于Matlab</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Matlab </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Matlab </tag>
+            
+            <tag> LaTeX </tag>
+            
+            <tag> Linux </tag>
+            
+            <tag> Mathematics </tag>
+            
+            <tag> Algorithms </tag>
+            
+            <tag> Signals </tag>
+            
+            <tag> Software </tag>
+            
+            <tag> Others </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Others文件夹中的第1篇</title>
+      <link href="/2022/12/05/Others/2022-12-07-Others1/"/>
+      <url>/2022/12/05/Others/2022-12-07-Others1/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Matlab文件夹第1篇测试"><a href="#Matlab文件夹第1篇测试" class="headerlink" title="Matlab文件夹第1篇测试"></a>Matlab文件夹第1篇测试</h1><p>类型属于Others</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Others </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Matlab </tag>
+            
+            <tag> LaTeX </tag>
+            
+            <tag> Linux </tag>
+            
+            <tag> Mathematics </tag>
+            
+            <tag> Algorithms </tag>
+            
+            <tag> Signals </tag>
+            
+            <tag> Software </tag>
+            
+            <tag> Others </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Mathematics文件夹中的第1篇</title>
+      <link href="/2022/12/05/Mathematics/2022-12-07-Mathematics1/"/>
+      <url>/2022/12/05/Mathematics/2022-12-07-Mathematics1/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Matlab文件夹第1篇测试"><a href="#Matlab文件夹第1篇测试" class="headerlink" title="Matlab文件夹第1篇测试"></a>Matlab文件夹第1篇测试</h1><p>类型属于Mathematics</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Mathematics </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Matlab </tag>
+            
+            <tag> LaTeX </tag>
+            
+            <tag> Linux </tag>
+            
+            <tag> Mathematics </tag>
+            
+            <tag> Algorithms </tag>
+            
+            <tag> Signals </tag>
+            
+            <tag> Software </tag>
+            
+            <tag> Others </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Python文件夹中的第1篇</title>
+      <link href="/2022/12/05/Python/2022-12-07-Python1/"/>
+      <url>/2022/12/05/Python/2022-12-07-Python1/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Python文件夹第1篇测试"><a href="#Python文件夹第1篇测试" class="headerlink" title="Python文件夹第1篇测试"></a>Python文件夹第1篇测试</h1><p>类型属于Python</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Python </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Matlab </tag>
+            
+            <tag> LaTeX </tag>
+            
+            <tag> Linux </tag>
+            
+            <tag> Mathematics </tag>
+            
+            <tag> Algorithms </tag>
+            
+            <tag> Signals </tag>
+            
+            <tag> Software </tag>
+            
+            <tag> Others </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>创建所有的文章tags —— 文章tags可很多，但类型只一个最好</title>
+      <link href="/2022/12/05/Test/cs1/"/>
+      <url>/2022/12/05/Test/cs1/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Test"><a href="#Test" class="headerlink" title="Test"></a>Test</h1><p>这篇文章创建所有需要的Categories</p><p>Some contents in the article.</p><p>When I was a boy, my grandfather told me how a German taxi driver, Franz Bussman, found a brother who<br>was thought to have been killed twenty years before.</p><p>$ \hat{\mathbf{Z}}^{\dagger} \mathbf{J}&#x3D;\mathbf{J}\left(\hat{\mathbf{Z}}^{\prime}\right)^{-1} $</p><p>If the math formula can be shown correctly.</p><h2 id="二级题目测试"><a href="#二级题目测试" class="headerlink" title="二级题目测试"></a>二级题目测试</h2><p>是否在右边栏显示2级标题？—— 会的！Categories</p><h1 id="Code"><a href="#Code" class="headerlink" title="Code"></a>Code</h1><figure class="highlight matlab"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br><span class="line">56</span><br><span class="line">57</span><br><span class="line">58</span><br><span class="line">59</span><br><span class="line">60</span><br><span class="line">61</span><br><span class="line">62</span><br><span class="line">63</span><br><span class="line">64</span><br><span class="line">65</span><br><span class="line">66</span><br><span class="line">67</span><br><span class="line">68</span><br><span class="line">69</span><br><span class="line">70</span><br><span class="line">71</span><br><span class="line">72</span><br><span class="line">73</span><br><span class="line">74</span><br><span class="line">75</span><br><span class="line">76</span><br><span class="line">77</span><br><span class="line">78</span><br><span class="line">79</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">%% Information</span></span><br><span class="line"><span class="comment">% Title: AESM1590-EX4</span></span><br><span class="line"><span class="comment">% Time: 30-11-2022</span></span><br><span class="line"><span class="comment">% Name: Boyu Gao + Miaoyang Yuan</span></span><br><span class="line"><span class="comment">% Group: 7</span></span><br><span class="line"></span><br><span class="line"><span class="comment">%% Clear</span></span><br><span class="line">clear all;</span><br><span class="line">clear variables;</span><br><span class="line">clc;</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="comment">%% Read data</span></span><br><span class="line"><span class="comment">% Note: geo(3) = 60: number of shots ns. Finally, we will plot all 60 shots. </span></span><br><span class="line">filename_data = <span class="string">&#x27;slopesurf.segy&#x27;</span>;</span><br><span class="line">[Data_ex4, H_CSP, geo] = segyread(filename_data);</span><br><span class="line">[Data_CMP, H_CSP_CMP] = sortdata(Data_ex4, H_CSP, <span class="number">5</span>); </span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="comment">%% Velocity parameters</span></span><br><span class="line"><span class="comment">% midpoint</span></span><br><span class="line">midpnt = [<span class="number">1200</span>, <span class="number">2000</span>, <span class="number">2600</span>];</span><br><span class="line"><span class="comment">% when cmp = 1200</span></span><br><span class="line">t_1 = [<span class="number">74</span>, <span class="number">227</span>, <span class="number">296</span>].*(geo(<span class="number">1</span>)*<span class="number">10</span>^(<span class="number">-3</span>));</span><br><span class="line">v_1 = [<span class="number">2010</span>, <span class="number">2010</span>, <span class="number">1800</span>];</span><br><span class="line"><span class="comment">% when cmp = 2000</span></span><br><span class="line">t_2 = [<span class="number">215</span>,<span class="number">262</span>,<span class="number">305</span>,<span class="number">384</span>].*(geo(<span class="number">1</span>)*<span class="number">10</span>^(<span class="number">-3</span>));</span><br><span class="line">v_2 = [<span class="number">3500</span>,<span class="number">2000</span>,<span class="number">2500</span>,<span class="number">3900</span>];</span><br><span class="line"><span class="comment">%when cmp = 2600</span></span><br><span class="line">t_3 = [<span class="number">262</span>,<span class="number">296</span>,<span class="number">348</span>,<span class="number">384</span>].*(geo(<span class="number">1</span>)*<span class="number">10</span>^(<span class="number">-3</span>));</span><br><span class="line">v_3 = [<span class="number">2000</span>,<span class="number">2200</span>,<span class="number">3900</span>,<span class="number">3900</span>];</span><br><span class="line">t = &#123;t_1,t_2,t_3&#125;;</span><br><span class="line">v = &#123;v_1,v_2,v_3&#125;;</span><br><span class="line">tvpicks(:,:,<span class="number">1</span>) = [<span class="number">74</span>, <span class="number">227</span>,<span class="number">296</span>,<span class="number">296</span>;</span><br><span class="line">                  <span class="number">215</span>,<span class="number">262</span>,<span class="number">305</span>,<span class="number">384</span>;</span><br><span class="line">                  <span class="number">262</span>,<span class="number">296</span>,<span class="number">348</span>,<span class="number">384</span>].*(geo(<span class="number">1</span>)*<span class="number">10</span>^(<span class="number">-3</span>));  <span class="comment">% add the same number of last one in t_1 to make it fit</span></span><br><span class="line"></span><br><span class="line">tvpicks(:,:,<span class="number">2</span>) = [<span class="number">2010</span>,<span class="number">2010</span>,<span class="number">1800</span>,<span class="number">1800</span>;</span><br><span class="line">                  <span class="number">3500</span>,<span class="number">2000</span>,<span class="number">2500</span>,<span class="number">3900</span>;</span><br><span class="line">                  <span class="number">2000</span>,<span class="number">2200</span>,<span class="number">3900</span>,<span class="number">3900</span>];                <span class="comment">% add the same number of last one in v_1 to make it fit</span></span><br><span class="line">smute = <span class="number">0.05</span>;  <span class="comment">% 0.5 / 0.05</span></span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="comment">%% NMO</span></span><br><span class="line"><span class="keyword">for</span> mid_tmp = <span class="number">1</span>:<span class="number">3</span></span><br><span class="line">    [Data_CMP_out,H_CMP_out] = selectcmp(Data_CMP, H_CSP_CMP, midpnt(mid_tmp));</span><br><span class="line">    t_matrix = cell2mat( t(mid_tmp) );</span><br><span class="line">    v_matrix = cell2mat( v(mid_tmp) );</span><br><span class="line">    nmo_vlog(Data_CMP_out, H_CMP_out, geo, t_matrix, v_matrix);</span><br><span class="line"><span class="keyword">end</span></span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="comment">%% Find CMP locations + Generate velocity model  </span></span><br><span class="line">[gather_positions, gather_folds] = analysefold(H_CSP, <span class="number">5</span>);</span><br><span class="line">vmodel = generatevmodel2(midpnt, tvpicks, gather_positions, geo);</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="comment">%% Stacking the NMO-ed data</span></span><br><span class="line">[Data_CMP_out,H_CMP_out] = selectcmp(Data_CMP, H_CSP_CMP, midpnt(<span class="number">1</span>));</span><br><span class="line">gather = nmo_vlog(Data_CMP_out,H_CMP_out,geo,t_matrix,v_matrix,smute);</span><br><span class="line">gather_stack = stackplot(gather,geo);</span><br><span class="line">title(<span class="string">&#x27;without smute&#x27;</span>);</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="comment">%% NMO to all the data and stack them without smute</span></span><br><span class="line"><span class="built_in">figure</span>();</span><br><span class="line">[cmp_positions, cmp_folds] = analysefold(H_CSP_CMP, <span class="number">5</span>);</span><br><span class="line">zosection = nmo_stack(Data_CMP, H_CSP_CMP, cmp_positions, cmp_folds, geo, vmodel, <span class="number">0</span>);</span><br><span class="line">imageseis(zosection);</span><br><span class="line">xlabel(<span class="string">&#x27; the spacing between CMPs &#x27;</span>);</span><br><span class="line">title(<span class="string">&#x27;without smute&#x27;</span>);</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="comment">%% NMO to all the data and stack them with smute</span></span><br><span class="line"><span class="built_in">figure</span>();</span><br><span class="line">zosection = nmo_stack(Data_CMP,H_CSP_CMP, cmp_positions, cmp_folds, geo, vmodel, smute);</span><br><span class="line">imageseis(zosection);</span><br><span class="line">xlabel(<span class="string">&#x27; the spacing between CMPs &#x27;</span>);</span><br><span class="line">title(<span class="string">&#x27;with smute&#x27;</span>);</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> Python </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Matlab </tag>
+            
+            <tag> LaTeX </tag>
+            
+            <tag> Linux </tag>
+            
+            <tag> Mathematics </tag>
+            
+            <tag> Algorithms </tag>
+            
+            <tag> Signals </tag>
+            
+            <tag> Software </tag>
+            
+            <tag> Others </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Signals文件夹中的第1篇</title>
+      <link href="/2022/12/05/Signals/2022-12-07-Signals1/"/>
+      <url>/2022/12/05/Signals/2022-12-07-Signals1/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Matlab文件夹第1篇测试"><a href="#Matlab文件夹第1篇测试" class="headerlink" title="Matlab文件夹第1篇测试"></a>Matlab文件夹第1篇测试</h1><p>类型属于Signals</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Signals </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Matlab </tag>
+            
+            <tag> LaTeX </tag>
+            
+            <tag> Linux </tag>
+            
+            <tag> Mathematics </tag>
+            
+            <tag> Algorithms </tag>
+            
+            <tag> Signals </tag>
+            
+            <tag> Software </tag>
+            
+            <tag> Others </tag>
+            
+        </tags>
       
     </entry>
     
@@ -18,12 +395,18 @@
     
     <entry>
       <title>第一篇文章</title>
-      <link href="/2022/12/05/cs/"/>
-      <url>/2022/12/05/cs/</url>
+      <link href="/2022/12/05/Test/cs/"/>
+      <url>/2022/12/05/Test/cs/</url>
       
         <content type="html"><![CDATA[<h1 id="这是我的第一篇文章"><a href="#这是我的第一篇文章" class="headerlink" title="这是我的第一篇文章"></a>这是我的第一篇文章</h1><p>说明：前面的header必须有！hexo就是根据头部信息来判断这个文件是一篇文章。</p>]]></content>
       
       
+      <categories>
+          
+          <category> Test </category>
+          
+      </categories>
+      
       
     </entry>
     
@@ -33,44 +416,11 @@
     
     
     <entry>
-      <title>link</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <title>Categories</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>tags</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/js/runtime.js"/>
-      <url>/js/runtime.js</url>
-      
-        <content type="html"><![CDATA[var now = new Date;function createtime(){now.setTime(now.getTime()+1e3);    /* e, t, a这3个参数与旅行者号相关 */var e = new Date("02/27/2022 15:00:00"),    /* 这是时间单纯是凑出来的: 可能需要经常校正 */    t = Math.trunc(234e8+(now-e)/1e3*17),    a = (t/1496e5).toFixed(6),    /* 以下参数与网站运行时间相关 */    o = new Date("09/28/2018 10:25:12"),   /* 这是blog运行的起始时间 */    r = (now-o)/1e3/60/60/24,    i = Math.floor(r),    n = (now-o)/1e3/60/60-24*i,    s = Math.floor(n);1 == String(s).length&&(s="0"+s);var l = (now-o)/1e3/60-1440*i-60*s,    g = Math.floor(l);1==String(g).length&&(g="0"+g);var d = (now-o)/1e3-86400*i-3600*s-60*g,    b = Math.round(d);1==String(b).length&&(b="0"+b);let c = "";    c = s<18&&s>=9?`<img class='boardsign' src='https://img.shields.io/badge/F%E5%B0%8F%E5%B1%8B-%E7%A7%91%E7%A0%94%E6%91%B8%E9%B1%BC%E4%B8%AD%F0%9F%90%9F-1ade23?style=social&logo=Buy%20Me%20A%20Coffee' title='什么时候能够实现财富自由呀~'><br> Boyu's blog has been up and running for ${i} days ${s} hours ${g} minutes ${b} seconds <i id="heartbeat" class='fas fa-heartbeat'></i> <br> The distance of Voyager 1 from Earth is currently ${t} km, equivalent to ${a} AU 🚀 <br> 第一，生存是文明的第一需要；第二，文明不断增长和扩张，但宇宙中的物质总量保持不变 ✨ `:`<img class='boardsign' src='https://img.shields.io/badge/F%E5%B0%8F%E5%B1%8B-%E4%B8%8B%E7%8F%AD%E4%BC%91%E6%81%AF%E5%95%A6%F0%9F%8C%99-6adea8?style=social&logo=coffeescript' title='下班了就该开开心心地玩耍~'><br> Boyu's blog has been up and running for ${i} days ${s} hours ${g} minutes ${b} seconds <i id="heartbeat" class='fas fa-heartbeat'></i> <br> The distance of Voyager 1 from Earth is currently ${t} km, equivalent to ${a} AU 🚀 <br> 第一，生存是文明的第一需要；第二，文明不断增长和扩张，但宇宙中的物质总量保持不变 ✨ `,document.getElementById("workboard")&&(document.getElementById("workboard").innerHTML=c)}    setInterval((()=>{createtime()}),1e3);    /* 内容要修改，两个重复的部分都要修改 */]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/css/onefig.css"/>
-      <url>/css/onefig.css</url>
-      
-        <content type="html"><![CDATA[/* 一图流效果: 页脚与头图透明 *//* 本质：把抬头和页脚不想要的部分设置为透明 */#footer {    background: transparent !important;  }  #page-header {    background: transparent !important;  }    /* 白天模式遮罩透明 */  #footer::before {    background: transparent !important;  }  #page-header::before {    background: transparent !important;  }    /* 夜间模式遮罩透明 */  [data-theme="dark"] #footer::before {    background: transparent !important;  }  [data-theme="dark"] #page-header::before {    background: transparent !important;  }]]></content>
       
     </entry>
     
@@ -82,6 +432,50 @@
       <url>/css/runtime.css</url>
       
         <content type="html"><![CDATA[/*电子钟字体*/@font-face {  font-family: 'UnidreamLED';  src: url("https://cdn.jsdelivr.net/npm/akilar-candyassets/fonts/UnidreamLED.ttf");  font-display: swap;}div#runtime {  width: 180px;  margin: auto;  color: #fff;  padding-inline: 5px;  border-radius: 10px;  background-color: rgba(0,0,0,0.7);  font-family: 'UnidreamLED';}[data-theme="dark"] div#runtime {  color: #28b4c8;  box-shadow: 0 0 5px rgba(28,69,218,0.71);  animation: flashlight 1s linear infinite alternate;}/*悬停显示徽标提示语*/a.github-badge:hover:before {  position: fixed;  width: fit-content;  margin: auto;  left: 0;  right: 0;  top: 10%;  border-radius: 10px;  text-align: center;  z-index: 100;  content: attr(data-title);  font-size: 20px;  color: #fff;  padding: 10px;  background-color: var(--text-bg-hover);}[data-theme=dark] a.github-badge:hover:before {  background-color: rgba(18,18,18,0.8);}@-moz-keyframes flashlight {  from {    box-shadow: 0 0 5px #1478d2;  }  to {    box-shadow: 0 0 2px #1478d2;  }}@-webkit-keyframes flashlight {  from {    box-shadow: 0 0 5px #1478d2;  }  to {    box-shadow: 0 0 2px #1478d2;  }}@-o-keyframes flashlight {  from {    box-shadow: 0 0 5px #1478d2;  }  to {    box-shadow: 0 0 2px #1478d2;  }}@keyframes flashlight {  from {    box-shadow: 0 0 5px #1478d2;  }  to {    box-shadow: 0 0 2px #1478d2;  }}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/css/custom.css"/>
+      <url>/css/custom.css</url>
+      
+        <content type="html"><![CDATA[/* 通用型的设置都在该文件内 *//* 一图流效果: 页脚与头图透明 *//* 本质：把抬头和页脚不想要的部分设置为透明 */#footer {    background: transparent !important;  }  #page-header {    background: transparent !important;  }    /* 白天模式遮罩透明 */  #footer::before {    background: transparent !important;  }  #page-header::before {    background: transparent !important;  }    /* 夜间模式遮罩透明 */  [data-theme="dark"] #footer::before {    background: transparent !important;  }  [data-theme="dark"] #page-header::before {    background: transparent !important;  }/* 翻页按钮居中 */#pagination {  width: 100%;  margin: auto;}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/js/runtime.js"/>
+      <url>/js/runtime.js</url>
+      
+        <content type="html"><![CDATA[var now = new Date;function createtime(){now.setTime(now.getTime()+1e3);    /* e, t, a这3个参数与旅行者号相关 */var e = new Date("02/27/2022 15:00:00"),    /* 这是时间单纯是凑出来的: 可能需要经常校正 */    t = Math.trunc(234e8+(now-e)/1e3*17),    a = (t/1496e5).toFixed(6),    /* 以下参数与网站运行时间相关 */    o = new Date("09/28/2018 10:25:12"),   /* 这是blog运行的起始时间 */    r = (now-o)/1e3/60/60/24,    i = Math.floor(r),    n = (now-o)/1e3/60/60-24*i,    s = Math.floor(n);1 == String(s).length&&(s="0"+s);var l = (now-o)/1e3/60-1440*i-60*s,    g = Math.floor(l);1==String(g).length&&(g="0"+g);var d = (now-o)/1e3-86400*i-3600*s-60*g,    b = Math.round(d);1==String(b).length&&(b="0"+b);let c = "";    c = s<18&&s>=9?`<img class='boardsign' src='https://img.shields.io/badge/Coffee-Working%20(%E3%84%92o%E3%84%92)-1ade23?style=social&logo=Buy%20Me%20A%20Coffee' title='什么时候能够实现财富自由呀~'><br> Boyu's blog has been up and running for ${i} days ${s} hours ${g} minutes ${b} seconds <i id="heartbeat" class='fas fa-heartbeat'></i> <br> The distance of Voyager 1 from Earth is currently ${t} km, equivalent to ${a} AU 🚀 <br> 第一，生存是文明的第一需要；第二，文明不断增长和扩张，但宇宙中的物质总量保持不变 ✨ `:`<img class='boardsign' src='https://img.shields.io/badge/Coffee-Relaxing%20(o%EF%BE%9F%E2%96%BD%EF%BE%9F)o-6adea8?style=social&logo=coffeescript' title='下班了就该开开心心地玩耍~'><br> Boyu's blog has been up and running for ${i} days ${s} hours ${g} minutes ${b} seconds <i id="heartbeat" class='fas fa-heartbeat'></i> <br> The distance of Voyager 1 from Earth is currently ${t} km, equivalent to ${a} AU 🚀 <br> 第一，生存是文明的第一需要；第二，文明不断增长和扩张，但宇宙中的物质总量保持不变 ✨ `,document.getElementById("workboard")&&(document.getElementById("workboard").innerHTML=c)}    setInterval((()=>{createtime()}),1e3);    /* 内容要修改，两个重复的部分都要修改 */    /* 中间的长链接是social shields，可以直接输入浏览器中边看边改 */]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Links</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Tags</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     

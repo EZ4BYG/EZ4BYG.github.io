@@ -1,3 +1,5 @@
+/* 通用型的设置都在该文件内 */
+
 /* 一图流效果: 页脚与头图透明 */
 /* 本质：把抬头和页脚不想要的部分设置为透明 */
 #footer {
@@ -22,3 +24,9 @@
   [data-theme="dark"] #page-header::before {
     background: transparent !important;
   }
+
+/* 翻页按钮居中 */
+#pagination {
+  width: 100%;
+  margin: auto;
+}
