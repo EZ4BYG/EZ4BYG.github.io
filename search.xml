@@ -4,16 +4,16 @@
   
     
     <entry>
-      <title>Algorithms文件夹中的第1篇</title>
-      <link href="/2022/12/05/Algorithms/2022-12-07-Algorithms1/"/>
-      <url>/2022/12/05/Algorithms/2022-12-07-Algorithms1/</url>
+      <title>LaTeX文件夹中的第1篇</title>
+      <link href="/2022/12/05/LaTeX/2022-12-07-LaTeX1/"/>
+      <url>/2022/12/05/LaTeX/2022-12-07-LaTeX1/</url>
       
-        <content type="html"><![CDATA[<h1 id="Matlab文件夹第1篇测试"><a href="#Matlab文件夹第1篇测试" class="headerlink" title="Matlab文件夹第1篇测试"></a>Matlab文件夹第1篇测试</h1><p>类型属于Algorithms</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="Matlab文件夹第1篇测试"><a href="#Matlab文件夹第1篇测试" class="headerlink" title="Matlab文件夹第1篇测试"></a>Matlab文件夹第1篇测试</h1><p>类型属于LaTeX</p>]]></content>
       
       
       <categories>
           
-          <category> Algorithms </category>
+          <category> LaTeX </category>
           
       </categories>
       
@@ -43,16 +43,16 @@
     
     
     <entry>
-      <title>LaTeX文件夹中的第1篇</title>
-      <link href="/2022/12/05/LaTeX/2022-12-07-LaTeX1/"/>
-      <url>/2022/12/05/LaTeX/2022-12-07-LaTeX1/</url>
+      <title>Algorithms文件夹中的第1篇</title>
+      <link href="/2022/12/05/Algorithms/2022-12-07-Algorithms1/"/>
+      <url>/2022/12/05/Algorithms/2022-12-07-Algorithms1/</url>
       
-        <content type="html"><![CDATA[<h1 id="Matlab文件夹第1篇测试"><a href="#Matlab文件夹第1篇测试" class="headerlink" title="Matlab文件夹第1篇测试"></a>Matlab文件夹第1篇测试</h1><p>类型属于LaTeX</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="Matlab文件夹第1篇测试"><a href="#Matlab文件夹第1篇测试" class="headerlink" title="Matlab文件夹第1篇测试"></a>Matlab文件夹第1篇测试</h1><p>类型属于Algorithms</p>]]></content>
       
       
       <categories>
           
-          <category> LaTeX </category>
+          <category> Algorithms </category>
           
       </categories>
       
@@ -160,84 +160,6 @@
     
     
     <entry>
-      <title>Mathematics文件夹中的第1篇</title>
-      <link href="/2022/12/05/Mathematics/2022-12-07-Mathematics1/"/>
-      <url>/2022/12/05/Mathematics/2022-12-07-Mathematics1/</url>
-      
-        <content type="html"><![CDATA[<h1 id="Matlab文件夹第1篇测试"><a href="#Matlab文件夹第1篇测试" class="headerlink" title="Matlab文件夹第1篇测试"></a>Matlab文件夹第1篇测试</h1><p>类型属于Mathematics</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> Mathematics </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Matlab </tag>
-            
-            <tag> LaTeX </tag>
-            
-            <tag> Linux </tag>
-            
-            <tag> Mathematics </tag>
-            
-            <tag> Algorithms </tag>
-            
-            <tag> Signals </tag>
-            
-            <tag> Software </tag>
-            
-            <tag> Others </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Signals文件夹中的第1篇</title>
-      <link href="/2022/12/05/Signals/2022-12-07-Signals1/"/>
-      <url>/2022/12/05/Signals/2022-12-07-Signals1/</url>
-      
-        <content type="html"><![CDATA[<h1 id="Matlab文件夹第1篇测试"><a href="#Matlab文件夹第1篇测试" class="headerlink" title="Matlab文件夹第1篇测试"></a>Matlab文件夹第1篇测试</h1><p>类型属于Signals</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> Signals </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Matlab </tag>
-            
-            <tag> LaTeX </tag>
-            
-            <tag> Linux </tag>
-            
-            <tag> Mathematics </tag>
-            
-            <tag> Algorithms </tag>
-            
-            <tag> Signals </tag>
-            
-            <tag> Software </tag>
-            
-            <tag> Others </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Others文件夹中的第1篇</title>
       <link href="/2022/12/05/Others/2022-12-07-Others1/"/>
       <url>/2022/12/05/Others/2022-12-07-Others1/</url>
@@ -287,6 +209,84 @@
       <categories>
           
           <category> Python </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Matlab </tag>
+            
+            <tag> LaTeX </tag>
+            
+            <tag> Linux </tag>
+            
+            <tag> Mathematics </tag>
+            
+            <tag> Algorithms </tag>
+            
+            <tag> Signals </tag>
+            
+            <tag> Software </tag>
+            
+            <tag> Others </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Mathematics文件夹中的第1篇</title>
+      <link href="/2022/12/05/Mathematics/2022-12-07-Mathematics1/"/>
+      <url>/2022/12/05/Mathematics/2022-12-07-Mathematics1/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Matlab文件夹第1篇测试"><a href="#Matlab文件夹第1篇测试" class="headerlink" title="Matlab文件夹第1篇测试"></a>Matlab文件夹第1篇测试</h1><p>类型属于Mathematics</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Mathematics </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Matlab </tag>
+            
+            <tag> LaTeX </tag>
+            
+            <tag> Linux </tag>
+            
+            <tag> Mathematics </tag>
+            
+            <tag> Algorithms </tag>
+            
+            <tag> Signals </tag>
+            
+            <tag> Software </tag>
+            
+            <tag> Others </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Signals文件夹中的第1篇</title>
+      <link href="/2022/12/05/Signals/2022-12-07-Signals1/"/>
+      <url>/2022/12/05/Signals/2022-12-07-Signals1/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Matlab文件夹第1篇测试"><a href="#Matlab文件夹第1篇测试" class="headerlink" title="Matlab文件夹第1篇测试"></a>Matlab文件夹第1篇测试</h1><p>类型属于Signals</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Signals </category>
           
       </categories>
       
@@ -420,18 +420,7 @@
       <link href="/css/custom.css"/>
       <url>/css/custom.css</url>
       
-        <content type="html"><![CDATA[/* 通用型的设置都在该文件内 *//* 一图流效果: 页脚与头图透明 *//* 本质：把抬头和页脚不想要的部分设置为透明 */#footer {    background: transparent !important;  }  #page-header {    background: transparent !important;  }    /* 白天模式遮罩透明 */  #footer::before {    background: transparent !important;  }  #page-header::before {    background: transparent !important;  }    /* 夜间模式遮罩透明 */  [data-theme="dark"] #footer::before {    background: transparent !important;  }  [data-theme="dark"] #page-header::before {    background: transparent !important;  }/* 翻页按钮居中 */#pagination {  width: 100%;  margin: auto;}]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/css/runtime.css"/>
-      <url>/css/runtime.css</url>
-      
-        <content type="html"><![CDATA[/*电子钟字体*/@font-face {  font-family: 'UnidreamLED';  src: url("https://cdn.jsdelivr.net/npm/akilar-candyassets/fonts/UnidreamLED.ttf");  font-display: swap;}div#runtime {  width: 180px;  margin: auto;  color: #fff;  padding-inline: 5px;  border-radius: 10px;  background-color: rgba(0,0,0,0.7);  font-family: 'UnidreamLED';}[data-theme="dark"] div#runtime {  color: #28b4c8;  box-shadow: 0 0 5px rgba(28,69,218,0.71);  animation: flashlight 1s linear infinite alternate;}/*悬停显示徽标提示语*/a.github-badge:hover:before {  position: fixed;  width: fit-content;  margin: auto;  left: 0;  right: 0;  top: 10%;  border-radius: 10px;  text-align: center;  z-index: 100;  content: attr(data-title);  font-size: 20px;  color: #fff;  padding: 10px;  background-color: var(--text-bg-hover);}[data-theme=dark] a.github-badge:hover:before {  background-color: rgba(18,18,18,0.8);}@-moz-keyframes flashlight {  from {    box-shadow: 0 0 5px #1478d2;  }  to {    box-shadow: 0 0 2px #1478d2;  }}@-webkit-keyframes flashlight {  from {    box-shadow: 0 0 5px #1478d2;  }  to {    box-shadow: 0 0 2px #1478d2;  }}@-o-keyframes flashlight {  from {    box-shadow: 0 0 5px #1478d2;  }  to {    box-shadow: 0 0 2px #1478d2;  }}@keyframes flashlight {  from {    box-shadow: 0 0 5px #1478d2;  }  to {    box-shadow: 0 0 2px #1478d2;  }}]]></content>
+        <content type="html"><![CDATA[/* 通用型的设置都在该文件内 *//* 1. 一图流效果: 页脚与头图透明 *//* 本质：把抬头和页脚不想要的部分设置为透明 */#footer {    background: transparent !important;  }  #page-header {    background: transparent !important;  }    /* 白天模式遮罩透明 */  #footer::before {    background: transparent !important;  }  #page-header::before {    background: transparent !important;  }    /* 夜间模式遮罩透明 */  [data-theme="dark"] #footer::before {    background: transparent !important;  }  [data-theme="dark"] #page-header::before {    background: transparent !important;  }/* 2. 翻页按钮居中 */#pagination {  width: 100%;  margin: auto;}/* 3. 旧版小冰分类磁贴设置 *//* 小冰分类分类磁铁黑夜模式适配 *//* 一般状态 */[data-theme="dark"] .magnet_link_context {  background: #1e1e1e;  color: antiquewhite;}/* 鼠标悬浮状态 */[data-theme="dark"] .magnet_link_context:hover {  background: #f78d08;   /* 和_config.yml里设置的悬浮背景色一致 */  color: #f2f2f2;}]]></content>
       
     </entry>
     
@@ -450,6 +439,17 @@
     
     <entry>
       <title></title>
+      <link href="/css/runtime.css"/>
+      <url>/css/runtime.css</url>
+      
+        <content type="html"><![CDATA[/*电子钟字体*/@font-face {  font-family: 'UnidreamLED';  src: url("https://cdn.jsdelivr.net/npm/akilar-candyassets/fonts/UnidreamLED.ttf");  font-display: swap;}div#runtime {  width: 180px;  margin: auto;  color: #fff;  padding-inline: 5px;  border-radius: 10px;  background-color: rgba(0,0,0,0.7);  font-family: 'UnidreamLED';}[data-theme="dark"] div#runtime {  color: #28b4c8;  box-shadow: 0 0 5px rgba(28,69,218,0.71);  animation: flashlight 1s linear infinite alternate;}/*悬停显示徽标提示语*/a.github-badge:hover:before {  position: fixed;  width: fit-content;  margin: auto;  left: 0;  right: 0;  top: 10%;  border-radius: 10px;  text-align: center;  z-index: 100;  content: attr(data-title);  font-size: 20px;  color: #fff;  padding: 10px;  background-color: var(--text-bg-hover);}[data-theme=dark] a.github-badge:hover:before {  background-color: rgba(18,18,18,0.8);}@-moz-keyframes flashlight {  from {    box-shadow: 0 0 5px #1478d2;  }  to {    box-shadow: 0 0 2px #1478d2;  }}@-webkit-keyframes flashlight {  from {    box-shadow: 0 0 5px #1478d2;  }  to {    box-shadow: 0 0 2px #1478d2;  }}@-o-keyframes flashlight {  from {    box-shadow: 0 0 5px #1478d2;  }  to {    box-shadow: 0 0 2px #1478d2;  }}@keyframes flashlight {  from {    box-shadow: 0 0 5px #1478d2;  }  to {    box-shadow: 0 0 2px #1478d2;  }}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
       <link href="/js/runtime.js"/>
       <url>/js/runtime.js</url>
       
@@ -460,9 +460,9 @@
     
     
     <entry>
-      <title>Tags</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title>Links</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -471,9 +471,9 @@
     
     
     <entry>
-      <title>Links</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <title>Tags</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       

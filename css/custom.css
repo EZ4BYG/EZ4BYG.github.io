@@ -1,6 +1,6 @@
 /* 通用型的设置都在该文件内 */
 
-/* 一图流效果: 页脚与头图透明 */
+/* 1. 一图流效果: 页脚与头图透明 */
 /* 本质：把抬头和页脚不想要的部分设置为透明 */
 #footer {
     background: transparent !important;
@@ -25,8 +25,21 @@
     background: transparent !important;
   }
 
-/* 翻页按钮居中 */
+/* 2. 翻页按钮居中 */
 #pagination {
   width: 100%;
   margin: auto;
+}
+
+/* 3. 旧版小冰分类磁贴设置 */
+/* 小冰分类分类磁铁黑夜模式适配 */
+/* 一般状态 */
+[data-theme="dark"] .magnet_link_context {
+  background: #1e1e1e;
+  color: antiquewhite;
+}
+/* 鼠标悬浮状态 */
+[data-theme="dark"] .magnet_link_context:hover {
+  background: #f78d08;   /* 和_config.yml里设置的悬浮背景色一致 */
+  color: #f2f2f2;
 }
