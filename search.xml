@@ -275,16 +275,16 @@
     
     
     <entry>
-      <title>Others文件夹中的第1篇</title>
-      <link href="/2022/12/05/Others/2022-12-07-Others1/"/>
-      <url>/2022/12/05/Others/2022-12-07-Others1/</url>
+      <title>Mathematics文件夹中的第1篇</title>
+      <link href="/2022/12/05/Mathematics/2022-12-07-Mathematics1/"/>
+      <url>/2022/12/05/Mathematics/2022-12-07-Mathematics1/</url>
       
-        <content type="html"><![CDATA[<h1 id="Matlab文件夹第1篇测试"><a href="#Matlab文件夹第1篇测试" class="headerlink" title="Matlab文件夹第1篇测试"></a>Matlab文件夹第1篇测试</h1><p>类型属于Others</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="Matlab文件夹第1篇测试"><a href="#Matlab文件夹第1篇测试" class="headerlink" title="Matlab文件夹第1篇测试"></a>Matlab文件夹第1篇测试</h1><p>类型属于Mathematics</p>]]></content>
       
       
       <categories>
           
-          <category> Others </category>
+          <category> Mathematics </category>
           
       </categories>
       
@@ -353,84 +353,6 @@
     
     
     <entry>
-      <title>Linux文件夹中的第1篇</title>
-      <link href="/2022/12/05/Linux/2022-12-07-Linux1/"/>
-      <url>/2022/12/05/Linux/2022-12-07-Linux1/</url>
-      
-        <content type="html"><![CDATA[<h1 id="Matlab文件夹第1篇测试"><a href="#Matlab文件夹第1篇测试" class="headerlink" title="Matlab文件夹第1篇测试"></a>Matlab文件夹第1篇测试</h1><p>类型属于Linux</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> Linux </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Matlab </tag>
-            
-            <tag> LaTeX </tag>
-            
-            <tag> Linux </tag>
-            
-            <tag> Mathematics </tag>
-            
-            <tag> Algorithms </tag>
-            
-            <tag> Signals </tag>
-            
-            <tag> Software </tag>
-            
-            <tag> Others </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>LaTeX文件夹中的第1篇</title>
-      <link href="/2022/12/05/LaTeX/2022-12-07-LaTeX1/"/>
-      <url>/2022/12/05/LaTeX/2022-12-07-LaTeX1/</url>
-      
-        <content type="html"><![CDATA[<h1 id="Matlab文件夹第1篇测试"><a href="#Matlab文件夹第1篇测试" class="headerlink" title="Matlab文件夹第1篇测试"></a>Matlab文件夹第1篇测试</h1><p>类型属于LaTeX</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> LaTeX </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Matlab </tag>
-            
-            <tag> LaTeX </tag>
-            
-            <tag> Linux </tag>
-            
-            <tag> Mathematics </tag>
-            
-            <tag> Algorithms </tag>
-            
-            <tag> Signals </tag>
-            
-            <tag> Software </tag>
-            
-            <tag> Others </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Matlab文件夹中的第1篇</title>
       <link href="/2022/12/05/Matlab/2022-12-07-Matlab1/"/>
       <url>/2022/12/05/Matlab/2022-12-07-Matlab1/</url>
@@ -470,55 +392,16 @@
     
     
     <entry>
-      <title>Mathematics文件夹中的第1篇</title>
-      <link href="/2022/12/05/Mathematics/2022-12-07-Mathematics1/"/>
-      <url>/2022/12/05/Mathematics/2022-12-07-Mathematics1/</url>
+      <title>Linux文件夹中的第1篇</title>
+      <link href="/2022/12/05/Linux/2022-12-07-Linux1/"/>
+      <url>/2022/12/05/Linux/2022-12-07-Linux1/</url>
       
-        <content type="html"><![CDATA[<h1 id="Matlab文件夹第1篇测试"><a href="#Matlab文件夹第1篇测试" class="headerlink" title="Matlab文件夹第1篇测试"></a>Matlab文件夹第1篇测试</h1><p>类型属于Mathematics</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> Mathematics </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Matlab </tag>
-            
-            <tag> LaTeX </tag>
-            
-            <tag> Linux </tag>
-            
-            <tag> Mathematics </tag>
-            
-            <tag> Algorithms </tag>
-            
-            <tag> Signals </tag>
-            
-            <tag> Software </tag>
-            
-            <tag> Others </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Python文件夹中的第1篇</title>
-      <link href="/2022/12/05/Python/2022-12-07-Python1/"/>
-      <url>/2022/12/05/Python/2022-12-07-Python1/</url>
-      
-        <content type="html"><![CDATA[<h1 id="Python文件夹第1篇测试"><a href="#Python文件夹第1篇测试" class="headerlink" title="Python文件夹第1篇测试"></a>Python文件夹第1篇测试</h1><p>类型属于Python</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="Matlab文件夹第1篇测试"><a href="#Matlab文件夹第1篇测试" class="headerlink" title="Matlab文件夹第1篇测试"></a>Matlab文件夹第1篇测试</h1><p>类型属于Linux</p>]]></content>
       
       
       <categories>
           
-          <category> Python </category>
+          <category> Linux </category>
           
       </categories>
       
@@ -587,11 +470,50 @@
     
     
     <entry>
-      <title>创建所有的文章tags —— 文章tags可很多，但类型只一个最好</title>
-      <link href="/2022/12/05/Test/cs1/"/>
-      <url>/2022/12/05/Test/cs1/</url>
+      <title>LaTeX文件夹中的第1篇</title>
+      <link href="/2022/12/05/LaTeX/2022-12-07-LaTeX1/"/>
+      <url>/2022/12/05/LaTeX/2022-12-07-LaTeX1/</url>
       
-        <content type="html"><![CDATA[<h1 id="Test"><a href="#Test" class="headerlink" title="Test"></a>Test</h1><p>这篇文章创建所有需要的Categories</p><p>Some contents in the article.</p><p>When I was a boy, my grandfather told me how a German taxi driver, Franz Bussman, found a brother who<br>was thought to have been killed twenty years before.</p><p>$ \hat{\mathbf{Z}}^{\dagger} \mathbf{J}=\mathbf{J}\left(\hat{\mathbf{Z}}^{\prime}\right)^{-1} $</p><p>If the math formula can be shown correctly.</p><h2 id="二级题目测试"><a href="#二级题目测试" class="headerlink" title="二级题目测试"></a>二级题目测试</h2><p>是否在右边栏显示2级标题？—— 会的！Categories</p><h1 id="Code"><a href="#Code" class="headerlink" title="Code"></a>Code</h1><figure class="highlight matlab"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br><span class="line">56</span><br><span class="line">57</span><br><span class="line">58</span><br><span class="line">59</span><br><span class="line">60</span><br><span class="line">61</span><br><span class="line">62</span><br><span class="line">63</span><br><span class="line">64</span><br><span class="line">65</span><br><span class="line">66</span><br><span class="line">67</span><br><span class="line">68</span><br><span class="line">69</span><br><span class="line">70</span><br><span class="line">71</span><br><span class="line">72</span><br><span class="line">73</span><br><span class="line">74</span><br><span class="line">75</span><br><span class="line">76</span><br><span class="line">77</span><br><span class="line">78</span><br><span class="line">79</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">%% Information</span></span><br><span class="line"><span class="comment">% Title: AESM1590-EX4</span></span><br><span class="line"><span class="comment">% Time: 30-11-2022</span></span><br><span class="line"><span class="comment">% Name: Boyu Gao + Miaoyang Yuan</span></span><br><span class="line"><span class="comment">% Group: 7</span></span><br><span class="line"></span><br><span class="line"><span class="comment">%% Clear</span></span><br><span class="line">clear all;</span><br><span class="line">clear variables;</span><br><span class="line">clc;</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="comment">%% Read data</span></span><br><span class="line"><span class="comment">% Note: geo(3) = 60: number of shots ns. Finally, we will plot all 60 shots. </span></span><br><span class="line">filename_data = <span class="string">&#x27;slopesurf.segy&#x27;</span>;</span><br><span class="line">[Data_ex4, H_CSP, geo] = segyread(filename_data);</span><br><span class="line">[Data_CMP, H_CSP_CMP] = sortdata(Data_ex4, H_CSP, <span class="number">5</span>); </span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="comment">%% Velocity parameters</span></span><br><span class="line"><span class="comment">% midpoint</span></span><br><span class="line">midpnt = [<span class="number">1200</span>, <span class="number">2000</span>, <span class="number">2600</span>];</span><br><span class="line"><span class="comment">% when cmp = 1200</span></span><br><span class="line">t_1 = [<span class="number">74</span>, <span class="number">227</span>, <span class="number">296</span>].*(geo(<span class="number">1</span>)*<span class="number">10</span>^(<span class="number">-3</span>));</span><br><span class="line">v_1 = [<span class="number">2010</span>, <span class="number">2010</span>, <span class="number">1800</span>];</span><br><span class="line"><span class="comment">% when cmp = 2000</span></span><br><span class="line">t_2 = [<span class="number">215</span>,<span class="number">262</span>,<span class="number">305</span>,<span class="number">384</span>].*(geo(<span class="number">1</span>)*<span class="number">10</span>^(<span class="number">-3</span>));</span><br><span class="line">v_2 = [<span class="number">3500</span>,<span class="number">2000</span>,<span class="number">2500</span>,<span class="number">3900</span>];</span><br><span class="line"><span class="comment">%when cmp = 2600</span></span><br><span class="line">t_3 = [<span class="number">262</span>,<span class="number">296</span>,<span class="number">348</span>,<span class="number">384</span>].*(geo(<span class="number">1</span>)*<span class="number">10</span>^(<span class="number">-3</span>));</span><br><span class="line">v_3 = [<span class="number">2000</span>,<span class="number">2200</span>,<span class="number">3900</span>,<span class="number">3900</span>];</span><br><span class="line">t = &#123;t_1,t_2,t_3&#125;;</span><br><span class="line">v = &#123;v_1,v_2,v_3&#125;;</span><br><span class="line">tvpicks(:,:,<span class="number">1</span>) = [<span class="number">74</span>, <span class="number">227</span>,<span class="number">296</span>,<span class="number">296</span>;</span><br><span class="line">                  <span class="number">215</span>,<span class="number">262</span>,<span class="number">305</span>,<span class="number">384</span>;</span><br><span class="line">                  <span class="number">262</span>,<span class="number">296</span>,<span class="number">348</span>,<span class="number">384</span>].*(geo(<span class="number">1</span>)*<span class="number">10</span>^(<span class="number">-3</span>));  <span class="comment">% add the same number of last one in t_1 to make it fit</span></span><br><span class="line"></span><br><span class="line">tvpicks(:,:,<span class="number">2</span>) = [<span class="number">2010</span>,<span class="number">2010</span>,<span class="number">1800</span>,<span class="number">1800</span>;</span><br><span class="line">                  <span class="number">3500</span>,<span class="number">2000</span>,<span class="number">2500</span>,<span class="number">3900</span>;</span><br><span class="line">                  <span class="number">2000</span>,<span class="number">2200</span>,<span class="number">3900</span>,<span class="number">3900</span>];                <span class="comment">% add the same number of last one in v_1 to make it fit</span></span><br><span class="line">smute = <span class="number">0.05</span>;  <span class="comment">% 0.5 / 0.05</span></span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="comment">%% NMO</span></span><br><span class="line"><span class="keyword">for</span> mid_tmp = <span class="number">1</span>:<span class="number">3</span></span><br><span class="line">    [Data_CMP_out,H_CMP_out] = selectcmp(Data_CMP, H_CSP_CMP, midpnt(mid_tmp));</span><br><span class="line">    t_matrix = cell2mat( t(mid_tmp) );</span><br><span class="line">    v_matrix = cell2mat( v(mid_tmp) );</span><br><span class="line">    nmo_vlog(Data_CMP_out, H_CMP_out, geo, t_matrix, v_matrix);</span><br><span class="line"><span class="keyword">end</span></span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="comment">%% Find CMP locations + Generate velocity model  </span></span><br><span class="line">[gather_positions, gather_folds] = analysefold(H_CSP, <span class="number">5</span>);</span><br><span class="line">vmodel = generatevmodel2(midpnt, tvpicks, gather_positions, geo);</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="comment">%% Stacking the NMO-ed data</span></span><br><span class="line">[Data_CMP_out,H_CMP_out] = selectcmp(Data_CMP, H_CSP_CMP, midpnt(<span class="number">1</span>));</span><br><span class="line">gather = nmo_vlog(Data_CMP_out,H_CMP_out,geo,t_matrix,v_matrix,smute);</span><br><span class="line">gather_stack = stackplot(gather,geo);</span><br><span class="line">title(<span class="string">&#x27;without smute&#x27;</span>);</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="comment">%% NMO to all the data and stack them without smute</span></span><br><span class="line"><span class="built_in">figure</span>();</span><br><span class="line">[cmp_positions, cmp_folds] = analysefold(H_CSP_CMP, <span class="number">5</span>);</span><br><span class="line">zosection = nmo_stack(Data_CMP, H_CSP_CMP, cmp_positions, cmp_folds, geo, vmodel, <span class="number">0</span>);</span><br><span class="line">imageseis(zosection);</span><br><span class="line">xlabel(<span class="string">&#x27; the spacing between CMPs &#x27;</span>);</span><br><span class="line">title(<span class="string">&#x27;without smute&#x27;</span>);</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="comment">%% NMO to all the data and stack them with smute</span></span><br><span class="line"><span class="built_in">figure</span>();</span><br><span class="line">zosection = nmo_stack(Data_CMP,H_CSP_CMP, cmp_positions, cmp_folds, geo, vmodel, smute);</span><br><span class="line">imageseis(zosection);</span><br><span class="line">xlabel(<span class="string">&#x27; the spacing between CMPs &#x27;</span>);</span><br><span class="line">title(<span class="string">&#x27;with smute&#x27;</span>);</span><br></pre></td></tr></table></figure>]]></content>
+        <content type="html"><![CDATA[<h1 id="Matlab文件夹第1篇测试"><a href="#Matlab文件夹第1篇测试" class="headerlink" title="Matlab文件夹第1篇测试"></a>Matlab文件夹第1篇测试</h1><p>类型属于LaTeX</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> LaTeX </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Matlab </tag>
+            
+            <tag> LaTeX </tag>
+            
+            <tag> Linux </tag>
+            
+            <tag> Mathematics </tag>
+            
+            <tag> Algorithms </tag>
+            
+            <tag> Signals </tag>
+            
+            <tag> Software </tag>
+            
+            <tag> Others </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Python文件夹中的第1篇</title>
+      <link href="/2022/12/05/Python/2022-12-07-Python1/"/>
+      <url>/2022/12/05/Python/2022-12-07-Python1/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Python文件夹第1篇测试"><a href="#Python文件夹第1篇测试" class="headerlink" title="Python文件夹第1篇测试"></a>Python文件夹第1篇测试</h1><p>类型属于Python</p>]]></content>
       
       
       <categories>
@@ -665,6 +587,84 @@
     
     
     <entry>
+      <title>Others文件夹中的第1篇</title>
+      <link href="/2022/12/05/Others/2022-12-07-Others1/"/>
+      <url>/2022/12/05/Others/2022-12-07-Others1/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Matlab文件夹第1篇测试"><a href="#Matlab文件夹第1篇测试" class="headerlink" title="Matlab文件夹第1篇测试"></a>Matlab文件夹第1篇测试</h1><p>类型属于Others</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Others </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Matlab </tag>
+            
+            <tag> LaTeX </tag>
+            
+            <tag> Linux </tag>
+            
+            <tag> Mathematics </tag>
+            
+            <tag> Algorithms </tag>
+            
+            <tag> Signals </tag>
+            
+            <tag> Software </tag>
+            
+            <tag> Others </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>创建所有的文章tags —— 文章tags可很多，但类型只一个最好</title>
+      <link href="/2022/12/05/Test/cs1/"/>
+      <url>/2022/12/05/Test/cs1/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Test"><a href="#Test" class="headerlink" title="Test"></a>Test</h1><p>这篇文章创建所有需要的Categories</p><p>Some contents in the article.</p><p>When I was a boy, my grandfather told me how a German taxi driver, Franz Bussman, found a brother who<br>was thought to have been killed twenty years before.</p><p>$ \hat{\mathbf{Z}}^{\dagger} \mathbf{J}=\mathbf{J}\left(\hat{\mathbf{Z}}^{\prime}\right)^{-1} $</p><p>If the math formula can be shown correctly.</p><h2 id="二级题目测试"><a href="#二级题目测试" class="headerlink" title="二级题目测试"></a>二级题目测试</h2><p>是否在右边栏显示2级标题？—— 会的！Categories</p><h1 id="Code"><a href="#Code" class="headerlink" title="Code"></a>Code</h1><figure class="highlight matlab"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br><span class="line">56</span><br><span class="line">57</span><br><span class="line">58</span><br><span class="line">59</span><br><span class="line">60</span><br><span class="line">61</span><br><span class="line">62</span><br><span class="line">63</span><br><span class="line">64</span><br><span class="line">65</span><br><span class="line">66</span><br><span class="line">67</span><br><span class="line">68</span><br><span class="line">69</span><br><span class="line">70</span><br><span class="line">71</span><br><span class="line">72</span><br><span class="line">73</span><br><span class="line">74</span><br><span class="line">75</span><br><span class="line">76</span><br><span class="line">77</span><br><span class="line">78</span><br><span class="line">79</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">%% Information</span></span><br><span class="line"><span class="comment">% Title: AESM1590-EX4</span></span><br><span class="line"><span class="comment">% Time: 30-11-2022</span></span><br><span class="line"><span class="comment">% Name: Boyu Gao + Miaoyang Yuan</span></span><br><span class="line"><span class="comment">% Group: 7</span></span><br><span class="line"></span><br><span class="line"><span class="comment">%% Clear</span></span><br><span class="line">clear all;</span><br><span class="line">clear variables;</span><br><span class="line">clc;</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="comment">%% Read data</span></span><br><span class="line"><span class="comment">% Note: geo(3) = 60: number of shots ns. Finally, we will plot all 60 shots. </span></span><br><span class="line">filename_data = <span class="string">&#x27;slopesurf.segy&#x27;</span>;</span><br><span class="line">[Data_ex4, H_CSP, geo] = segyread(filename_data);</span><br><span class="line">[Data_CMP, H_CSP_CMP] = sortdata(Data_ex4, H_CSP, <span class="number">5</span>); </span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="comment">%% Velocity parameters</span></span><br><span class="line"><span class="comment">% midpoint</span></span><br><span class="line">midpnt = [<span class="number">1200</span>, <span class="number">2000</span>, <span class="number">2600</span>];</span><br><span class="line"><span class="comment">% when cmp = 1200</span></span><br><span class="line">t_1 = [<span class="number">74</span>, <span class="number">227</span>, <span class="number">296</span>].*(geo(<span class="number">1</span>)*<span class="number">10</span>^(<span class="number">-3</span>));</span><br><span class="line">v_1 = [<span class="number">2010</span>, <span class="number">2010</span>, <span class="number">1800</span>];</span><br><span class="line"><span class="comment">% when cmp = 2000</span></span><br><span class="line">t_2 = [<span class="number">215</span>,<span class="number">262</span>,<span class="number">305</span>,<span class="number">384</span>].*(geo(<span class="number">1</span>)*<span class="number">10</span>^(<span class="number">-3</span>));</span><br><span class="line">v_2 = [<span class="number">3500</span>,<span class="number">2000</span>,<span class="number">2500</span>,<span class="number">3900</span>];</span><br><span class="line"><span class="comment">%when cmp = 2600</span></span><br><span class="line">t_3 = [<span class="number">262</span>,<span class="number">296</span>,<span class="number">348</span>,<span class="number">384</span>].*(geo(<span class="number">1</span>)*<span class="number">10</span>^(<span class="number">-3</span>));</span><br><span class="line">v_3 = [<span class="number">2000</span>,<span class="number">2200</span>,<span class="number">3900</span>,<span class="number">3900</span>];</span><br><span class="line">t = &#123;t_1,t_2,t_3&#125;;</span><br><span class="line">v = &#123;v_1,v_2,v_3&#125;;</span><br><span class="line">tvpicks(:,:,<span class="number">1</span>) = [<span class="number">74</span>, <span class="number">227</span>,<span class="number">296</span>,<span class="number">296</span>;</span><br><span class="line">                  <span class="number">215</span>,<span class="number">262</span>,<span class="number">305</span>,<span class="number">384</span>;</span><br><span class="line">                  <span class="number">262</span>,<span class="number">296</span>,<span class="number">348</span>,<span class="number">384</span>].*(geo(<span class="number">1</span>)*<span class="number">10</span>^(<span class="number">-3</span>));  <span class="comment">% add the same number of last one in t_1 to make it fit</span></span><br><span class="line"></span><br><span class="line">tvpicks(:,:,<span class="number">2</span>) = [<span class="number">2010</span>,<span class="number">2010</span>,<span class="number">1800</span>,<span class="number">1800</span>;</span><br><span class="line">                  <span class="number">3500</span>,<span class="number">2000</span>,<span class="number">2500</span>,<span class="number">3900</span>;</span><br><span class="line">                  <span class="number">2000</span>,<span class="number">2200</span>,<span class="number">3900</span>,<span class="number">3900</span>];                <span class="comment">% add the same number of last one in v_1 to make it fit</span></span><br><span class="line">smute = <span class="number">0.05</span>;  <span class="comment">% 0.5 / 0.05</span></span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="comment">%% NMO</span></span><br><span class="line"><span class="keyword">for</span> mid_tmp = <span class="number">1</span>:<span class="number">3</span></span><br><span class="line">    [Data_CMP_out,H_CMP_out] = selectcmp(Data_CMP, H_CSP_CMP, midpnt(mid_tmp));</span><br><span class="line">    t_matrix = cell2mat( t(mid_tmp) );</span><br><span class="line">    v_matrix = cell2mat( v(mid_tmp) );</span><br><span class="line">    nmo_vlog(Data_CMP_out, H_CMP_out, geo, t_matrix, v_matrix);</span><br><span class="line"><span class="keyword">end</span></span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="comment">%% Find CMP locations + Generate velocity model  </span></span><br><span class="line">[gather_positions, gather_folds] = analysefold(H_CSP, <span class="number">5</span>);</span><br><span class="line">vmodel = generatevmodel2(midpnt, tvpicks, gather_positions, geo);</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="comment">%% Stacking the NMO-ed data</span></span><br><span class="line">[Data_CMP_out,H_CMP_out] = selectcmp(Data_CMP, H_CSP_CMP, midpnt(<span class="number">1</span>));</span><br><span class="line">gather = nmo_vlog(Data_CMP_out,H_CMP_out,geo,t_matrix,v_matrix,smute);</span><br><span class="line">gather_stack = stackplot(gather,geo);</span><br><span class="line">title(<span class="string">&#x27;without smute&#x27;</span>);</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="comment">%% NMO to all the data and stack them without smute</span></span><br><span class="line"><span class="built_in">figure</span>();</span><br><span class="line">[cmp_positions, cmp_folds] = analysefold(H_CSP_CMP, <span class="number">5</span>);</span><br><span class="line">zosection = nmo_stack(Data_CMP, H_CSP_CMP, cmp_positions, cmp_folds, geo, vmodel, <span class="number">0</span>);</span><br><span class="line">imageseis(zosection);</span><br><span class="line">xlabel(<span class="string">&#x27; the spacing between CMPs &#x27;</span>);</span><br><span class="line">title(<span class="string">&#x27;without smute&#x27;</span>);</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="comment">%% NMO to all the data and stack them with smute</span></span><br><span class="line"><span class="built_in">figure</span>();</span><br><span class="line">zosection = nmo_stack(Data_CMP,H_CSP_CMP, cmp_positions, cmp_folds, geo, vmodel, smute);</span><br><span class="line">imageseis(zosection);</span><br><span class="line">xlabel(<span class="string">&#x27; the spacing between CMPs &#x27;</span>);</span><br><span class="line">title(<span class="string">&#x27;with smute&#x27;</span>);</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> Python </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Matlab </tag>
+            
+            <tag> LaTeX </tag>
+            
+            <tag> Linux </tag>
+            
+            <tag> Mathematics </tag>
+            
+            <tag> Algorithms </tag>
+            
+            <tag> Signals </tag>
+            
+            <tag> Software </tag>
+            
+            <tag> Others </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>第一篇文章</title>
       <link href="/2022/12/05/Test/cs/"/>
       <url>/2022/12/05/Test/cs/</url>
@@ -687,28 +687,6 @@
     
     
     <entry>
-      <title>About</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/js/light.js"/>
-      <url>/js/light.js</url>
-      
-        <content type="html"><![CDATA[// 夜间霓虹灯效果// 颜色数组var arr = ["#39c5bb", "#f14747", "#f1a247", "#f1ee47", "#b347f1", "#1edbff", "#ed709b", "#5636ed"];// 颜色索引var idx = 0;// 切换颜色function changeColor() {    // 仅夜间模式才启用    if (document.getElementsByTagName('html')[0].getAttribute('data-theme') == 'dark') {        if (document.getElementById("site-name"))            document.getElementById("site-name").style.textShadow = arr[idx] + " 0 0 15px";        if (document.getElementById("site-title"))            document.getElementById("site-title").style.textShadow = arr[idx] + " 0 0 15px";        if (document.getElementById("site-subtitle"))            document.getElementById("site-subtitle").style.textShadow = arr[idx] + " 0 0 10px";        if (document.getElementById("post-info"))            document.getElementById("post-info").style.textShadow = arr[idx] + " 0 0 5px";        try {            document.getElementsByClassName("author-info__name")[0].style.textShadow = arr[idx] + " 0 0 12px";            document.getElementsByClassName("author-info__description")[0].style.textShadow = arr[idx] + " 0 0 12px";        } catch {                    }        idx++;        if (idx == 8) {            idx = 0;        }    } else {        // 白天模式恢复默认        if (document.getElementById("site-name"))            document.getElementById("site-name").style.textShadow = "#1e1e1ee0 1px 1px 1px";        if (document.getElementById("site-title"))            document.getElementById("site-title").style.textShadow = "#1e1e1ee0 1px 1px 1px";        if (document.getElementById("site-subtitle"))            document.getElementById("site-subtitle").style.textShadow = "#1e1e1ee0 1px 1px 1px";        if (document.getElementById("post-info"))            document.getElementById("post-info").style.textShadow = "#1e1e1ee0 1px 1px 1px";        try {            document.getElementsByClassName("author-info__name")[0].style.textShadow = "";            document.getElementsByClassName("author-info__description")[0].style.textShadow = "";        } catch {                    }    }}// 开启计时器window.onload = setInterval(changeColor, 1200);]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Categories</title>
       <link href="/categories/index.html"/>
       <url>/categories/index.html</url>
@@ -720,44 +698,11 @@
     
     
     <entry>
-      <title></title>
-      <link href="/js/universe.js"/>
-      <url>/js/universe.js</url>
-      
-        <content type="html"><![CDATA[/* 夜间流星特效 */function dark() {window.requestAnimationFrame=window.requestAnimationFrame||window.mozRequestAnimationFrame||window.webkitRequestAnimationFrame||window.msRequestAnimationFrame;var n,e,i,h,t=.05,s=document.getElementById("universe"),o=!0,a="180,184,240",r="226,225,142",d="226,225,224",c=[];function f(){n=window.innerWidth,e=window.innerHeight,i=.216*n,s.setAttribute("width",n),s.setAttribute("height",e)}function u(){h.clearRect(0,0,n,e);for(var t=c.length,i=0;i<t;i++){var s=c[i];s.move(),s.fadeIn(),s.fadeOut(),s.draw()}}function y(){this.reset=function(){this.giant=m(3),this.comet=!this.giant&&!o&&m(10),this.x=l(0,n-10),this.y=l(0,e),this.r=l(1.1,2.6),this.dx=l(t,6*t)+(this.comet+1-1)*t*l(50,120)+2*t,this.dy=-l(t,6*t)-(this.comet+1-1)*t*l(50,120),this.fadingOut=null,this.fadingIn=!0,this.opacity=0,this.opacityTresh=l(.2,1-.4*(this.comet+1-1)),this.do=l(5e-4,.002)+.001*(this.comet+1-1)},this.fadeIn=function(){this.fadingIn&&(this.fadingIn=!(this.opacity>this.opacityTresh),this.opacity+=this.do)},this.fadeOut=function(){this.fadingOut&&(this.fadingOut=!(this.opacity<0),this.opacity-=this.do/2,(this.x>n||this.y<0)&&(this.fadingOut=!1,this.reset()))},this.draw=function(){if(h.beginPath(),this.giant)h.fillStyle="rgba("+a+","+this.opacity+")",h.arc(this.x,this.y,2,0,2*Math.PI,!1);else if(this.comet){h.fillStyle="rgba("+d+","+this.opacity+")",h.arc(this.x,this.y,1.5,0,2*Math.PI,!1);for(var t=0;t<30;t++)h.fillStyle="rgba("+d+","+(this.opacity-this.opacity/20*t)+")",h.rect(this.x-this.dx/4*t,this.y-this.dy/4*t-2,2,2),h.fill()}else h.fillStyle="rgba("+r+","+this.opacity+")",h.rect(this.x,this.y,this.r,this.r);h.closePath(),h.fill()},this.move=function(){this.x+=this.dx,this.y+=this.dy,!1===this.fadingOut&&this.reset(),(this.x>n-n/4||this.y<0)&&(this.fadingOut=!0)},setTimeout(function(){o=!1},50)}function m(t){return Math.floor(1e3*Math.random())+1<10*t}function l(t,i){return Math.random()*(i-t)+t}f(),window.addEventListener("resize",f,!1),function(){h=s.getContext("2d");for(var t=0;t<i;t++)c[t]=new y,c[t].reset();u()}(),function t(){document.getElementsByTagName('html')[0].getAttribute('data-theme')=='dark'&&u(),window.requestAnimationFrame(t)}()};dark()]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/js/runtime.js"/>
-      <url>/js/runtime.js</url>
-      
-        <content type="html"><![CDATA[var now = new Date;function createtime(){now.setTime(now.getTime()+1e3);    /* e, t, a这3个参数与旅行者号相关 */var e = new Date("02/27/2022 15:00:00"),    /* 这是时间单纯是凑出来的: 可能需要经常校正 */    t = Math.trunc(234e8+(now-e)/1e3*17),    a = (t/1496e5).toFixed(6),    /* 以下参数与网站运行时间相关 */    o = new Date("09/28/2018 10:25:12"),   /* 这是blog运行的起始时间 */    r = (now-o)/1e3/60/60/24,    i = Math.floor(r),    n = (now-o)/1e3/60/60-24*i,    s = Math.floor(n);1 == String(s).length&&(s="0"+s);var l = (now-o)/1e3/60-1440*i-60*s,    g = Math.floor(l);1==String(g).length&&(g="0"+g);var d = (now-o)/1e3-86400*i-3600*s-60*g,    b = Math.round(d);1==String(b).length&&(b="0"+b);let c = "";    c = s<18&&s>=9?`<img class='boardsign' src='https://img.shields.io/badge/Coffee-Working%20(%E3%84%92o%E3%84%92)-1ade23?style=social&logo=Buy%20Me%20A%20Coffee' title='什么时候能够实现财富自由呀~'><br> Boyu's blog has been up and running for ${i} days ${s} hours ${g} minutes ${b} seconds <i id="heartbeat" class='fas fa-heartbeat'></i> <br> The distance of Voyager 1 from Earth is currently ${t} km, equivalent to ${a} AU 🚀 <br> 第一，生存是文明的第一需要；第二，文明不断增长和扩张，但宇宙中的物质总量保持不变 ✨ `:`<img class='boardsign' src='https://img.shields.io/badge/Coffee-Relaxing%20(o%EF%BE%9F%E2%96%BD%EF%BE%9F)o-6adea8?style=social&logo=coffeescript' title='下班了就该开开心心地玩耍~'><br> Boyu's blog has been up and running for ${i} days ${s} hours ${g} minutes ${b} seconds <i id="heartbeat" class='fas fa-heartbeat'></i> <br> The distance of Voyager 1 from Earth is currently ${t} km, equivalent to ${a} AU 🚀 <br> 第一，生存是文明的第一需要；第二，文明不断增长和扩张，但宇宙中的物质总量保持不变 ✨ `,document.getElementById("workboard")&&(document.getElementById("workboard").innerHTML=c)}    setInterval((()=>{createtime()}),1e3);    /* 内容要修改，两个重复的部分都要修改 */    /* 中间的长链接是social shields，可以直接输入浏览器中边看边改 */]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Music</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
+      <title>About</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Links</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
-      
-        <content type="html"><![CDATA[<h1 id="1-Website-Design-Tools-and-Plugins"><a href="#1-Website-Design-Tools-and-Plugins" class="headerlink" title="1. Website Design Tools and Plugins"></a>1. Website Design Tools and Plugins</h1><div class="site-card-group"><a class="site-card" href="https://emojipedia.org/"><div class="img"><img src="https://lh3.googleusercontent.com/xlHXlNtswBJeSTW9zQWy_RlwIOjFZILMD2qbOW3WGqGS5KFiFlzNEow0mw7t3D0NcJNhGCGMASGUsUUyuS2r9zuDQ_jcgTnTKQziEtxM9TTXFCbRBokNmfyyvpECxLEHJlzdfWX7=w2400"/></div><div class="info"><img src="https://lh3.googleusercontent.com/85JIC5rnvfoJRkdymZgyaljcmXI2zBbbRHbIIUuzzLt1LqvuO_6Yp5eIHtGYXCkx6_bqAfT6-hpylwqqbYM4hwNYBAFV830Ukfql04pnph8iE4uLVeTSrdaWQzkAvkjyzUSmYZlw=w2400"/><span class="title">Emojipedia</span><span class="desc">Online Emoji Selection</span></div></a><a class="site-card" href="https://www.canva.com/colors/color-wheel/"><div class="img"><img src="https://lh3.googleusercontent.com/bgigdUqvCKLDjj9dVRYLVfS_i5pM0vwLim7LQqX8fqLh_hqpaRdSQznTkQwufvpp2ThYamgJ9HZfm_PGCbRreSFIWswUykHJymACfIzx5AbiYJi6WhrHDE1KsMxsXBI1qIQBo8XT=w2400"/></div><div class="info"><img src="https://lh3.googleusercontent.com/Pq7ggYnFNlJ32ZUgrXh_chwpsHwNzv-Mad09yo3IRe1-crvv-d09Q7KXoWi4zniCz98jpHRaM6KdCLkLHRiAZbfWLq__E_XXp5aVRAlK21JItcXIFvpgkvXwkPmbp5KJHibf_UiJ=s119-p-k"/><span class="title">Canva</span><span class="desc">Online Color Selection</span></div></a><a class="site-card" href="https://animate.style/"><div class="img"><img src="https://lh3.googleusercontent.com/Ha7Vg6SYbGUhMetbyGHuavwii0p6gcq6am-h92PLJ36QT_2NJmdnVJwOrKJj3txVR01s3RoiZYUQnIn66zFn_52_JzI2haUFmnoDKJRshPt6z_ck1f28fv_VTK11AaOjwPwzzJEI=w2400"/></div><div class="info"><img src="https://lh3.googleusercontent.com/77AWwb974AlV05BHjMQ5cOaR_0aDcp9DUkx7JXxxe6qyG7oND9Layg0yaiFvRHiddbPcfeNl3qLkrBFkWPeMs7cXcwdqw5yTI11RUU8nQoH7ka8rZFzuHeivJFpXJ2bHWgxzD8fu=w2400"/><span class="title">Animate.css</span><span class="desc">CSS Animation</span></div></a><a class="site-card" href="https://fontawesome.com/icons"><div class="img"><img src="https://lh3.googleusercontent.com/cmFQQdgqBIEu_dBcKSQ3KaQt-v0erJlbEpArFfUna-vYolwteSo4rw1bhrKiRCB44-ksM-OG6suAb0r1lVdR2CS2XeWOQd9BeqewgmWDNQUKY1IeXPRCf_Em4N3k0pkmTpzz63QU=w2400"/></div><div class="info"><img src="https://lh3.googleusercontent.com/gctfoOQY577sb9zpxcfhLvXTYUiK7z7AE17baj8i9oAeKuyG9yuIzZiVRxITnlMMS2be_5u6bTG5EPP4Zobm12kmRWpTj_xOZCg_zXsPGUD4cp6M1zwKbVTXR6uiyQHKBws9U4Jq=s186-p-k"/><span class="title">Font Awesome Icons</span><span class="desc">Font Awesome</span></div></a><a class="site-card" href="https://shields.io/"><div class="img"><img src="https://lh3.googleusercontent.com/xZ7Jk9sKEC9iN_I7yMdcikrGpbt0cx5GlsA62PLtMlwOmsd6YtSUfJ3NAm1IhbcmXa5Cqp6K2TV02Meo0YHyhvbAqslXTlVaLqPp2Pwubs-DjDuVBtGRg76L8wj4VxRY-8imqqd4=w2400"/></div><div class="info"><img src="https://lh3.googleusercontent.com/WbYmIFQAR_jBKBlIP4XJa8q2zR1B50pNB8MBxYQBKzaPsYZo94sc1urK7p2GF3AW32XXuAb7f6-ZYpHxsa0Cx0GWzlpkF0j6JKnRGKyHpe3-u_g_RH1n1iJ0LlusF83LNMceWGu3=s130-p-k"/><span class="title">Shields</span><span class="desc">Build Shields Online</span></div></a><a class="site-card" href="https://simpleicons.org/"><div class="img"><img src="https://lh3.googleusercontent.com/ZXlzIz7jVoRHdKAg16ZSrQ-KJ6yss7k5wtC3ipNKT5Kw0IB_8rVug6zh45UEwhDEXH5q2JG8rSZaF0YWodS5aitofNR99gi9CQX3n3lZF_snp2MoQofJYUZZQaz3UvZNoqNccKOmQA=w2400"/></div><div class="info"><img src="https://lh3.googleusercontent.com/R2qjcKYvVyAoPCQD_7IFJSF14YnCHw0l7BDxIfKcTDjnpbZJUjGtjZjinnLzYsgsrhBN0K3mr8clVAkdCs5Abs2-rhnU2K82QbS-wrMfDFV6pJG6qEAr9Ty_NKGIzB33o2V9Uu6YbA=w2400"/><span class="title">Simple Icons</span><span class="desc">Free SVG icons for popular brands</span></div></a><a class="site-card" href="https://wallpapers.com/"><div class="img"><img src="https://lh3.googleusercontent.com/eQcTklX9Wd3g0Arfhxp0BaeXcyXxVR4nsiI-OxBh8yl32iVYOPej2U4oXavd6iRjhVSAJnPIR64lAqWG3ldw1fbV3hHcvyaHz2h_LWqpQKUAJzh2aE6FSBb76KXxtJVaN5xFhXcCNA=w2400"/></div><div class="info"><img src="https://lh3.googleusercontent.com/jc0vXGBFbRhQf-y2xrQqJGrsrVj98hyUyM1KXQoE1E-BpxnsCIr_gNeUSeAuKjfysc8eF_OSGoZ-QeSlVGgMnlyjwUT066MIrwUKp6UjfTsZ4yYWuzTnLO1MO-bVdcgSnuX5oZ-Neg=w2400"/><span class="title">Wallpapers.com</span><span class="desc">Wallpaper Website</span></div></a><a class="site-card" href="https://www.nbfox.com/"><div class="img"><img src="https://lh3.googleusercontent.com/XYVLQpJcBzap5s-FRYsE8ttno9KdzElfVQIpLiiiPKplzdSmr6qvp2Epy7ruolUapcbKILCuIil3A0voXlYHO7Og44Jebs0iqCPubO9NMCSZJHwK6R19WPVAmyK5Pm8viQDqD3ZVZA=w2400"/></div><div class="info"><img src="https://lh3.googleusercontent.com/2dxFw7ofpOFH0wHaIlcI_BIoB2FQVge3bUtyUODMqQ4MYuFfKm0j4UIIdLzN79HLjIlP3zFqg42B7jcNre2vhRlYiA_GbpEITBuWzPJ7JPw5TajtuwEmKfbE4JCHjWtVkF3CqjGxyg=w2400"/><span class="title">麦田艺术-永久会员</span><span class="desc">Art Wallpaper</span></div></a></div><h1 id="2-Image-Tools"><a href="#2-Image-Tools" class="headerlink" title="2. Image Tools"></a>2. Image Tools</h1><div class="site-card-group"><a class="site-card" href="https://www.google.com/photos/about/"><div class="img"><img src="https://lh3.googleusercontent.com/-riv7P5hSa3vaZpwIxesU76eB03BDlHdrj-y2TjmRcpdsPtJ9z9KfHkFiUGFgAf67WlYzTbnhkU2Cafqg-MJS-WZBI9-anSyZmFZ5iQRiA08aLaNDOeI1JUGxdfxwylxxLuFOjK0Vg=w2400"/></div><div class="info"><img src="https://lh3.googleusercontent.com/UQWVBmbtNjryZqXwFtxrSMFHH7aEa3r3Mwr3ADo71hWR-3Y_t8aAQpPRZSDPX0T5OQ5eZ4eTvtPGF37y9FAHfbBmiHmIhpAxZgIuo9tiAzmHaO6O3VElLRjza0lw_oiUrz4l5wYBvQ=s117-p-k"/><span class="title">Google Photos</span><span class="desc">Image Hosting</span></div></a><a class="site-card" href="https://www.labnol.org/embed/google/photos/"><div class="img"><img src="https://lh3.googleusercontent.com/3iz4doHS-nqympgjjQN-6g_q3BTbTEKa9_baVWgF48EEsi8hy3T66pkRnrTCkmXbRJSIjD2TQ8KUzQqLT8LzfFJ6fc5h33Zhm-vXtcGPd6eFgBW-wG8DABF5Y2-wjZL-k0IrrzRHSw=w2400"/></div><div class="info"><img src="https://lh3.googleusercontent.com/W7mYDAixn_0qEC2YLqqSSMJIIA1AS_n4jeuBDISIoLPcydfPNdbVOythY9pIzTU9EfJg-RYjUWS-wIWCCLSRiEiCWwkCtxBS4mLht6b5wtZpSjWb9MR96bg7BkbGRHZYAutFBcoZTg=w2400"/><span class="title">Digital Inspiration</span><span class="desc">Convert Google Photos Into Embeded Links</span></div></a><a class="site-card" href="https://convertio.co/zh/"><div class="img"><img src="https://lh3.googleusercontent.com/2HXqmiOfftbNNv3gAJ_8KJYfDh_pbqBjkyf5-Liq7k9Kcx0aZgfGLE8HR-fS_uoicTps-yOCBpBLrWcEY-AJYTiYMpm2udnKD5t-rpfFjKl5sGpHVA7htx7gi-X5mv75CouyLk_BZg=w2400"/></div><div class="info"><img src="https://lh3.googleusercontent.com/BA2HvwqsfBjTsYf-8o-JnU2ZIJjIA-HIDVTcrRO6A8HKaMgv1xn_YGNs73ujb2Z0S7kbcYJScfCrepEMKCGDNcVDwWOVLGIu7ZWBHAri1QMoHiStTzouq74e9XwtPBIKK6PsuZ4wyw=s130-p-k"/><span class="title">Convertio</span><span class="desc">Convert Images to Webp</span></div></a><a class="site-card" href="https://tinypng.com/"><div class="img"><img src="https://lh3.googleusercontent.com/4pEtg0GWFr56cbLNNTiMwpQFfv_OY8AQcUvS8Zh61CXY3PLKRrotKH1eRXxqHr_Z2LpGjj-_wRQ2JuHgIVTaOIDRfpuMTHwrb-ipg_--t2U4ud1MiLUjjQj5VixnENFmQrVybPdHpg=w2400"/></div><div class="info"><img src="https://lh3.googleusercontent.com/1i8V8J7ggKh-2Kn1rSKmEQeZDGNXw5r_f7Bgt7iXePxsehphse8Aqg7xwxfdb7g5tMCqT3plYvrbv9Bqb7XUYxriu8r-vLv7QWd1QZ6IWAFdx4vXkLLdHZepCAyInTiCxbhtuDC34A=s92-p-k"/><span class="title">TinyPNG</span><span class="desc">Compress All Kinds Of Images</span></div></a><a class="site-card" href="https://photokit.com/"><div class="img"><img src="https://lh3.googleusercontent.com/5BugERrnpccww_lqgjpI2xc3q6IBHo4okyJ28zIX7n3NWzmqTdqBIuLeXIt3L27ZIc1STzdpIIwzbtJSHORB3czQ7j2mJUhh-IzuCBhEhM7W8C05MxeSq_eWr1MbJu40BlVp-O1zrQ=w2400"/></div><div class="info"><img src="https://lh3.googleusercontent.com/Eksn6WdL8bL-4jasFbGe78xyoG1oKXiQ1sdXBBCLv1u-g7898880P8z6YujGOs2k3PkY4PqdO41KCCSLvbpfnJIjUCduv0J6QuCdIj6fFcvMfkkVy1_3NYL2bTIIor3gcDHCOSr40A=s113-p-k"/><span class="title">Photokit</span><span class="desc">Online Images Processing</span></div></a><a class="site-card" href="https://www.geometrize.co.uk/"><div class="img"><img src="https://lh3.googleusercontent.com/VaVBQOcnSuricOhdXsKZsKxIBD5IOyWM4bmiYZL7hv4U8yGpx5gR9TM5q-6gYiWUKI91P0Nn2B85c3prxHj03qdREXlZvKwA1oNZ0SJe-5N-Xo27OCoUrVLqesiTyQ5_z_uePn6pjA=w2400"/></div><div class="info"><img src="https://lh3.googleusercontent.com/KQjJ8_7zP1INrDo3AmTb2Do6Ayfs8aoY0OAOwJda2flF7vBfp3NrQMN-9IIMJxDQA_YkiEh1mY4fq1Z54BqGJBCoeimTsE6PLnyYqD0nBYfM3cR539OOxAfq8OUSK5q1ve405N__Hg=s128-p-k"/><span class="title">Geometrize</span><span class="desc">Transform Images Into Geometric Primitives</span></div></a></div><h1 id="3-English-Dictionaries-and-Tools"><a href="#3-English-Dictionaries-and-Tools" class="headerlink" title="3. English Dictionaries and Tools"></a>3. English Dictionaries and Tools</h1><div class="site-card-group"><a class="site-card" href="https://www.ldoceonline.com/"><div class="img"><img src="https://lh3.googleusercontent.com/PM7RWVHmM2YdkJZVSV-1nDhS39V-xVK3xnqW1oavpPh_Gl4814-XW39nkHLYW52ggoWWqgVd5PdXihnLFWUVlEMWtcAHFDPTGiVyDFkCDtLPyvUolxMvuct9po4O1GWcXlHEr2IdTw=w2400"/></div><div class="info"><img src="https://lh3.googleusercontent.com/vwJ8Be-0I_rm-XAp91jqx1cmE40n7XffHjqS_Nqp50Oiwm0dnRreQCxsWXRZ_1XFMK-QofZr0BW8qJa60wsyhftCXVGz_XxT4IpvUFBovsakccnolTf5btzatWAEodOPdftH2LJquA=s130-p-k"/><span class="title">Longman Dictionary</span><span class="desc">Best Online Dictionary</span></div></a><a class="site-card" href="https://www.collinsdictionary.com/"><div class="img"><img src="https://lh3.googleusercontent.com/iie3Swb6MS6vWF7rlKxSuMtNTNRBnnwhijUQL6v-l-p8c_u93WOm-WJe_ayOBmXaKuJKjVlvdHA3I_lXoPKepKDvETUxeGEzrRvBCuXSHl_-UuhCD-KqhXewmGimOqe5LOQBhL-JKg=w2400"/></div><div class="info"><img src="https://lh3.googleusercontent.com/tm3UIVVTark_VhI-DraVlalcVAy2-2q92jauWhvgFlLKvUF0dYKqc0tZdoZvcjAA_P2HaUzxhTZGWo5o5pV6M-D2YCmTfMrtbjrDUIYW1VhTe8bAdPO1N40zcnmbKhfQffrXrgd2rQ=s92-p-k"/><span class="title">Collins Dictionary</span><span class="desc">Collins Comprehensive Dictionary</span></div></a><a class="site-card" href="https://howjsay.com/"><div class="img"><img src="https://lh3.googleusercontent.com/maljetN1kfyAG1C-E1CF138BcoajeO1frsnrU4hYzZiEpb0F4oU-OwLjGg5Mdk8WAJcjlGQFIwBHgLJ2AdKn8gwQePFHZ7IfhripWrVW-A3lLWGYeS-DAfWeea8Z7km0mewzMtLTpQ=w2400"/></div><div class="info"><img src="https://lh3.googleusercontent.com/yJHAk_2b8DKohYNgWdh_h8oE6xZqIotE2bHmaYYY4V2Z-3vcwLPFIiERj6VAicibSbVg6ykDRp5FAHjpbwvJI4_6pv8GA8SbRIavFtd38mdRH75mXowp2Gq23QByHQviXpt6-u3o3g=s92-p-k"/><span class="title">HowjSay</span><span class="desc">English Pronunciation Dictionary</span></div></a><a class="site-card" href="https://www.eapfoundation.com/"><div class="img"><img src="https://lh3.googleusercontent.com/iFeAEuAfAjY8-jfIfo80Oj8ALZryAVzBtR8-57VYejFmrndnWu_XKRRz0fxGvWLQS4DE3vlUrYCq9ekFgDnLEM24F4QT1JF_HnASEsbn8pPAYS8WRl_3UB19vGX9YVnJ54QyWMbRMQ=w2400"/></div><div class="info"><img src="https://lh3.googleusercontent.com/xJ8pzZ7QeGIjcKQkTS9TOWN7xtWicmQDkxZjYPkmgL17CbKVEJ_IXTHyQFq57CVGVtSgUMdE15WejWkT7ceQGwNSpcrPj2gnQ1i3JtZzZuWGwj9l4PEKRGHz6kx1_5mvcqzmCsVs4Q=s130-p-k"/><span class="title">EapFountation.com</span><span class="desc">Online English Learning Resources</span></div></a><a class="site-card" href="https://copytranslator.gitee.io/guide/"><div class="img"><img src="https://lh3.googleusercontent.com/CUECEyufHwqLXlIyldYlh4fmUBddNTgyX0ivs40qXFGm_0H6rj8ONf_ryOjaM2s9Xyb7K2__-uDW3TdAaOYfNZZ9RFDyI1BpzvGmun3w2CtAuq4Ah8QDZBb5lbvZP0739Gl4dlobxQ=w2400"/></div><div class="info"><img src="https://lh3.googleusercontent.com/SL3SU2_HkwocHXalwf_ya9wmGiIuxdOcRDoysXFbxMaMDHSSAw1TpIJQ9fxdavwzsjTq5Da0Xnn-y0VnBmty2FAecRhkzX9Zb2jFIkAjWc-y6QlMbctRn997VFG7VWgwEK3T8Win4Q=s130-p-k"/><span class="title">CopyTranslator</span><span class="desc">Copy and Translation</span></div></a><a class="site-card" href="https://dict.cnki.net/index"><div class="img"><img src="https://lh3.googleusercontent.com/zzZ1UIzswcWrMCA-4hDfzGsEOgYVdQaWYQb7REUWCepzB1sPcMRRvq3SudR4ut55-b-08N3h9_CYBch4-i6nc_DQzu0-a5rXpGozpJBR1M0iIh0JS_87HjmP9ZlPHqyYHcS64OceXQ=w2400"/></div><div class="info"><img src="https://lh3.googleusercontent.com/bBoGR9vtGgzPjrWr8Es0FCx4JivWsftydi4mwLvusDDC53MgDTZu9vJEiN40TOOsgtDBzp6P-sf_N6AfeORyYkM_xKLm26KH140ewQw_AqTi9pNsP09-OHMGWKNdUzi3whVrSQn6bQ=w2400"/><span class="title">知网学术翻译</span><span class="desc">Zhiwang Academic Translation</span></div></a></div>]]></content>
       
     </entry>
     
@@ -786,6 +731,28 @@
     
     
     <entry>
+      <title>Music</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Links</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="1-Website-Design-Tools-and-Plugins"><a href="#1-Website-Design-Tools-and-Plugins" class="headerlink" title="1. Website Design Tools and Plugins"></a>1. Website Design Tools and Plugins</h1><div class="site-card-group"><a class="site-card" href="https://emojipedia.org/"><div class="img"><img src="https://lh3.googleusercontent.com/xlHXlNtswBJeSTW9zQWy_RlwIOjFZILMD2qbOW3WGqGS5KFiFlzNEow0mw7t3D0NcJNhGCGMASGUsUUyuS2r9zuDQ_jcgTnTKQziEtxM9TTXFCbRBokNmfyyvpECxLEHJlzdfWX7=w2400"/></div><div class="info"><img src="https://lh3.googleusercontent.com/85JIC5rnvfoJRkdymZgyaljcmXI2zBbbRHbIIUuzzLt1LqvuO_6Yp5eIHtGYXCkx6_bqAfT6-hpylwqqbYM4hwNYBAFV830Ukfql04pnph8iE4uLVeTSrdaWQzkAvkjyzUSmYZlw=w2400"/><span class="title">Emojipedia</span><span class="desc">Online Emoji Selection</span></div></a><a class="site-card" href="https://www.canva.com/colors/color-wheel/"><div class="img"><img src="https://lh3.googleusercontent.com/bgigdUqvCKLDjj9dVRYLVfS_i5pM0vwLim7LQqX8fqLh_hqpaRdSQznTkQwufvpp2ThYamgJ9HZfm_PGCbRreSFIWswUykHJymACfIzx5AbiYJi6WhrHDE1KsMxsXBI1qIQBo8XT=w2400"/></div><div class="info"><img src="https://lh3.googleusercontent.com/Pq7ggYnFNlJ32ZUgrXh_chwpsHwNzv-Mad09yo3IRe1-crvv-d09Q7KXoWi4zniCz98jpHRaM6KdCLkLHRiAZbfWLq__E_XXp5aVRAlK21JItcXIFvpgkvXwkPmbp5KJHibf_UiJ=s119-p-k"/><span class="title">Canva</span><span class="desc">Online Color Selection</span></div></a><a class="site-card" href="https://animate.style/"><div class="img"><img src="https://lh3.googleusercontent.com/Ha7Vg6SYbGUhMetbyGHuavwii0p6gcq6am-h92PLJ36QT_2NJmdnVJwOrKJj3txVR01s3RoiZYUQnIn66zFn_52_JzI2haUFmnoDKJRshPt6z_ck1f28fv_VTK11AaOjwPwzzJEI=w2400"/></div><div class="info"><img src="https://lh3.googleusercontent.com/77AWwb974AlV05BHjMQ5cOaR_0aDcp9DUkx7JXxxe6qyG7oND9Layg0yaiFvRHiddbPcfeNl3qLkrBFkWPeMs7cXcwdqw5yTI11RUU8nQoH7ka8rZFzuHeivJFpXJ2bHWgxzD8fu=w2400"/><span class="title">Animate.css</span><span class="desc">CSS Animation</span></div></a><a class="site-card" href="https://fontawesome.com/icons"><div class="img"><img src="https://lh3.googleusercontent.com/cmFQQdgqBIEu_dBcKSQ3KaQt-v0erJlbEpArFfUna-vYolwteSo4rw1bhrKiRCB44-ksM-OG6suAb0r1lVdR2CS2XeWOQd9BeqewgmWDNQUKY1IeXPRCf_Em4N3k0pkmTpzz63QU=w2400"/></div><div class="info"><img src="https://lh3.googleusercontent.com/gctfoOQY577sb9zpxcfhLvXTYUiK7z7AE17baj8i9oAeKuyG9yuIzZiVRxITnlMMS2be_5u6bTG5EPP4Zobm12kmRWpTj_xOZCg_zXsPGUD4cp6M1zwKbVTXR6uiyQHKBws9U4Jq=s186-p-k"/><span class="title">Font Awesome Icons</span><span class="desc">Font Awesome</span></div></a><a class="site-card" href="https://shields.io/"><div class="img"><img src="https://lh3.googleusercontent.com/xZ7Jk9sKEC9iN_I7yMdcikrGpbt0cx5GlsA62PLtMlwOmsd6YtSUfJ3NAm1IhbcmXa5Cqp6K2TV02Meo0YHyhvbAqslXTlVaLqPp2Pwubs-DjDuVBtGRg76L8wj4VxRY-8imqqd4=w2400"/></div><div class="info"><img src="https://lh3.googleusercontent.com/WbYmIFQAR_jBKBlIP4XJa8q2zR1B50pNB8MBxYQBKzaPsYZo94sc1urK7p2GF3AW32XXuAb7f6-ZYpHxsa0Cx0GWzlpkF0j6JKnRGKyHpe3-u_g_RH1n1iJ0LlusF83LNMceWGu3=s130-p-k"/><span class="title">Shields</span><span class="desc">Build Shields Online</span></div></a><a class="site-card" href="https://simpleicons.org/"><div class="img"><img src="https://lh3.googleusercontent.com/ZXlzIz7jVoRHdKAg16ZSrQ-KJ6yss7k5wtC3ipNKT5Kw0IB_8rVug6zh45UEwhDEXH5q2JG8rSZaF0YWodS5aitofNR99gi9CQX3n3lZF_snp2MoQofJYUZZQaz3UvZNoqNccKOmQA=w2400"/></div><div class="info"><img src="https://lh3.googleusercontent.com/R2qjcKYvVyAoPCQD_7IFJSF14YnCHw0l7BDxIfKcTDjnpbZJUjGtjZjinnLzYsgsrhBN0K3mr8clVAkdCs5Abs2-rhnU2K82QbS-wrMfDFV6pJG6qEAr9Ty_NKGIzB33o2V9Uu6YbA=w2400"/><span class="title">Simple Icons</span><span class="desc">Free SVG icons for popular brands</span></div></a><a class="site-card" href="https://wallpapers.com/"><div class="img"><img src="https://lh3.googleusercontent.com/eQcTklX9Wd3g0Arfhxp0BaeXcyXxVR4nsiI-OxBh8yl32iVYOPej2U4oXavd6iRjhVSAJnPIR64lAqWG3ldw1fbV3hHcvyaHz2h_LWqpQKUAJzh2aE6FSBb76KXxtJVaN5xFhXcCNA=w2400"/></div><div class="info"><img src="https://lh3.googleusercontent.com/jc0vXGBFbRhQf-y2xrQqJGrsrVj98hyUyM1KXQoE1E-BpxnsCIr_gNeUSeAuKjfysc8eF_OSGoZ-QeSlVGgMnlyjwUT066MIrwUKp6UjfTsZ4yYWuzTnLO1MO-bVdcgSnuX5oZ-Neg=w2400"/><span class="title">Wallpapers.com</span><span class="desc">Wallpaper Website</span></div></a><a class="site-card" href="https://www.nbfox.com/"><div class="img"><img src="https://lh3.googleusercontent.com/XYVLQpJcBzap5s-FRYsE8ttno9KdzElfVQIpLiiiPKplzdSmr6qvp2Epy7ruolUapcbKILCuIil3A0voXlYHO7Og44Jebs0iqCPubO9NMCSZJHwK6R19WPVAmyK5Pm8viQDqD3ZVZA=w2400"/></div><div class="info"><img src="https://lh3.googleusercontent.com/2dxFw7ofpOFH0wHaIlcI_BIoB2FQVge3bUtyUODMqQ4MYuFfKm0j4UIIdLzN79HLjIlP3zFqg42B7jcNre2vhRlYiA_GbpEITBuWzPJ7JPw5TajtuwEmKfbE4JCHjWtVkF3CqjGxyg=w2400"/><span class="title">麦田艺术-永久会员</span><span class="desc">Art Wallpaper</span></div></a></div><h1 id="2-Image-Tools"><a href="#2-Image-Tools" class="headerlink" title="2. Image Tools"></a>2. Image Tools</h1><div class="site-card-group"><a class="site-card" href="https://www.google.com/photos/about/"><div class="img"><img src="https://lh3.googleusercontent.com/-riv7P5hSa3vaZpwIxesU76eB03BDlHdrj-y2TjmRcpdsPtJ9z9KfHkFiUGFgAf67WlYzTbnhkU2Cafqg-MJS-WZBI9-anSyZmFZ5iQRiA08aLaNDOeI1JUGxdfxwylxxLuFOjK0Vg=w2400"/></div><div class="info"><img src="https://lh3.googleusercontent.com/UQWVBmbtNjryZqXwFtxrSMFHH7aEa3r3Mwr3ADo71hWR-3Y_t8aAQpPRZSDPX0T5OQ5eZ4eTvtPGF37y9FAHfbBmiHmIhpAxZgIuo9tiAzmHaO6O3VElLRjza0lw_oiUrz4l5wYBvQ=s117-p-k"/><span class="title">Google Photos</span><span class="desc">Image Hosting</span></div></a><a class="site-card" href="https://www.labnol.org/embed/google/photos/"><div class="img"><img src="https://lh3.googleusercontent.com/3iz4doHS-nqympgjjQN-6g_q3BTbTEKa9_baVWgF48EEsi8hy3T66pkRnrTCkmXbRJSIjD2TQ8KUzQqLT8LzfFJ6fc5h33Zhm-vXtcGPd6eFgBW-wG8DABF5Y2-wjZL-k0IrrzRHSw=w2400"/></div><div class="info"><img src="https://lh3.googleusercontent.com/W7mYDAixn_0qEC2YLqqSSMJIIA1AS_n4jeuBDISIoLPcydfPNdbVOythY9pIzTU9EfJg-RYjUWS-wIWCCLSRiEiCWwkCtxBS4mLht6b5wtZpSjWb9MR96bg7BkbGRHZYAutFBcoZTg=w2400"/><span class="title">Digital Inspiration</span><span class="desc">Convert Google Photos Into Embeded Links</span></div></a><a class="site-card" href="https://convertio.co/zh/"><div class="img"><img src="https://lh3.googleusercontent.com/2HXqmiOfftbNNv3gAJ_8KJYfDh_pbqBjkyf5-Liq7k9Kcx0aZgfGLE8HR-fS_uoicTps-yOCBpBLrWcEY-AJYTiYMpm2udnKD5t-rpfFjKl5sGpHVA7htx7gi-X5mv75CouyLk_BZg=w2400"/></div><div class="info"><img src="https://lh3.googleusercontent.com/BA2HvwqsfBjTsYf-8o-JnU2ZIJjIA-HIDVTcrRO6A8HKaMgv1xn_YGNs73ujb2Z0S7kbcYJScfCrepEMKCGDNcVDwWOVLGIu7ZWBHAri1QMoHiStTzouq74e9XwtPBIKK6PsuZ4wyw=s130-p-k"/><span class="title">Convertio</span><span class="desc">Convert Images to Webp</span></div></a><a class="site-card" href="https://tinypng.com/"><div class="img"><img src="https://lh3.googleusercontent.com/4pEtg0GWFr56cbLNNTiMwpQFfv_OY8AQcUvS8Zh61CXY3PLKRrotKH1eRXxqHr_Z2LpGjj-_wRQ2JuHgIVTaOIDRfpuMTHwrb-ipg_--t2U4ud1MiLUjjQj5VixnENFmQrVybPdHpg=w2400"/></div><div class="info"><img src="https://lh3.googleusercontent.com/1i8V8J7ggKh-2Kn1rSKmEQeZDGNXw5r_f7Bgt7iXePxsehphse8Aqg7xwxfdb7g5tMCqT3plYvrbv9Bqb7XUYxriu8r-vLv7QWd1QZ6IWAFdx4vXkLLdHZepCAyInTiCxbhtuDC34A=s92-p-k"/><span class="title">TinyPNG</span><span class="desc">Compress All Kinds Of Images</span></div></a><a class="site-card" href="https://photokit.com/"><div class="img"><img src="https://lh3.googleusercontent.com/5BugERrnpccww_lqgjpI2xc3q6IBHo4okyJ28zIX7n3NWzmqTdqBIuLeXIt3L27ZIc1STzdpIIwzbtJSHORB3czQ7j2mJUhh-IzuCBhEhM7W8C05MxeSq_eWr1MbJu40BlVp-O1zrQ=w2400"/></div><div class="info"><img src="https://lh3.googleusercontent.com/Eksn6WdL8bL-4jasFbGe78xyoG1oKXiQ1sdXBBCLv1u-g7898880P8z6YujGOs2k3PkY4PqdO41KCCSLvbpfnJIjUCduv0J6QuCdIj6fFcvMfkkVy1_3NYL2bTIIor3gcDHCOSr40A=s113-p-k"/><span class="title">Photokit</span><span class="desc">Online Images Processing</span></div></a><a class="site-card" href="https://www.geometrize.co.uk/"><div class="img"><img src="https://lh3.googleusercontent.com/VaVBQOcnSuricOhdXsKZsKxIBD5IOyWM4bmiYZL7hv4U8yGpx5gR9TM5q-6gYiWUKI91P0Nn2B85c3prxHj03qdREXlZvKwA1oNZ0SJe-5N-Xo27OCoUrVLqesiTyQ5_z_uePn6pjA=w2400"/></div><div class="info"><img src="https://lh3.googleusercontent.com/KQjJ8_7zP1INrDo3AmTb2Do6Ayfs8aoY0OAOwJda2flF7vBfp3NrQMN-9IIMJxDQA_YkiEh1mY4fq1Z54BqGJBCoeimTsE6PLnyYqD0nBYfM3cR539OOxAfq8OUSK5q1ve405N__Hg=s128-p-k"/><span class="title">Geometrize</span><span class="desc">Transform Images Into Geometric Primitives</span></div></a></div><h1 id="3-English-Dictionaries-and-Tools"><a href="#3-English-Dictionaries-and-Tools" class="headerlink" title="3. English Dictionaries and Tools"></a>3. English Dictionaries and Tools</h1><div class="site-card-group"><a class="site-card" href="https://www.ldoceonline.com/"><div class="img"><img src="https://lh3.googleusercontent.com/PM7RWVHmM2YdkJZVSV-1nDhS39V-xVK3xnqW1oavpPh_Gl4814-XW39nkHLYW52ggoWWqgVd5PdXihnLFWUVlEMWtcAHFDPTGiVyDFkCDtLPyvUolxMvuct9po4O1GWcXlHEr2IdTw=w2400"/></div><div class="info"><img src="https://lh3.googleusercontent.com/vwJ8Be-0I_rm-XAp91jqx1cmE40n7XffHjqS_Nqp50Oiwm0dnRreQCxsWXRZ_1XFMK-QofZr0BW8qJa60wsyhftCXVGz_XxT4IpvUFBovsakccnolTf5btzatWAEodOPdftH2LJquA=s130-p-k"/><span class="title">Longman Dictionary</span><span class="desc">Best Online Dictionary</span></div></a><a class="site-card" href="https://www.collinsdictionary.com/"><div class="img"><img src="https://lh3.googleusercontent.com/iie3Swb6MS6vWF7rlKxSuMtNTNRBnnwhijUQL6v-l-p8c_u93WOm-WJe_ayOBmXaKuJKjVlvdHA3I_lXoPKepKDvETUxeGEzrRvBCuXSHl_-UuhCD-KqhXewmGimOqe5LOQBhL-JKg=w2400"/></div><div class="info"><img src="https://lh3.googleusercontent.com/tm3UIVVTark_VhI-DraVlalcVAy2-2q92jauWhvgFlLKvUF0dYKqc0tZdoZvcjAA_P2HaUzxhTZGWo5o5pV6M-D2YCmTfMrtbjrDUIYW1VhTe8bAdPO1N40zcnmbKhfQffrXrgd2rQ=s92-p-k"/><span class="title">Collins Dictionary</span><span class="desc">Collins Comprehensive Dictionary</span></div></a><a class="site-card" href="https://howjsay.com/"><div class="img"><img src="https://lh3.googleusercontent.com/maljetN1kfyAG1C-E1CF138BcoajeO1frsnrU4hYzZiEpb0F4oU-OwLjGg5Mdk8WAJcjlGQFIwBHgLJ2AdKn8gwQePFHZ7IfhripWrVW-A3lLWGYeS-DAfWeea8Z7km0mewzMtLTpQ=w2400"/></div><div class="info"><img src="https://lh3.googleusercontent.com/yJHAk_2b8DKohYNgWdh_h8oE6xZqIotE2bHmaYYY4V2Z-3vcwLPFIiERj6VAicibSbVg6ykDRp5FAHjpbwvJI4_6pv8GA8SbRIavFtd38mdRH75mXowp2Gq23QByHQviXpt6-u3o3g=s92-p-k"/><span class="title">HowjSay</span><span class="desc">English Pronunciation Dictionary</span></div></a><a class="site-card" href="https://www.eapfoundation.com/"><div class="img"><img src="https://lh3.googleusercontent.com/iFeAEuAfAjY8-jfIfo80Oj8ALZryAVzBtR8-57VYejFmrndnWu_XKRRz0fxGvWLQS4DE3vlUrYCq9ekFgDnLEM24F4QT1JF_HnASEsbn8pPAYS8WRl_3UB19vGX9YVnJ54QyWMbRMQ=w2400"/></div><div class="info"><img src="https://lh3.googleusercontent.com/xJ8pzZ7QeGIjcKQkTS9TOWN7xtWicmQDkxZjYPkmgL17CbKVEJ_IXTHyQFq57CVGVtSgUMdE15WejWkT7ceQGwNSpcrPj2gnQ1i3JtZzZuWGwj9l4PEKRGHz6kx1_5mvcqzmCsVs4Q=s130-p-k"/><span class="title">EapFountation.com</span><span class="desc">Online English Learning Resources</span></div></a><a class="site-card" href="https://copytranslator.gitee.io/guide/"><div class="img"><img src="https://lh3.googleusercontent.com/CUECEyufHwqLXlIyldYlh4fmUBddNTgyX0ivs40qXFGm_0H6rj8ONf_ryOjaM2s9Xyb7K2__-uDW3TdAaOYfNZZ9RFDyI1BpzvGmun3w2CtAuq4Ah8QDZBb5lbvZP0739Gl4dlobxQ=w2400"/></div><div class="info"><img src="https://lh3.googleusercontent.com/SL3SU2_HkwocHXalwf_ya9wmGiIuxdOcRDoysXFbxMaMDHSSAw1TpIJQ9fxdavwzsjTq5Da0Xnn-y0VnBmty2FAecRhkzX9Zb2jFIkAjWc-y6QlMbctRn997VFG7VWgwEK3T8Win4Q=s130-p-k"/><span class="title">CopyTranslator</span><span class="desc">Copy and Translation</span></div></a><a class="site-card" href="https://dict.cnki.net/index"><div class="img"><img src="https://lh3.googleusercontent.com/zzZ1UIzswcWrMCA-4hDfzGsEOgYVdQaWYQb7REUWCepzB1sPcMRRvq3SudR4ut55-b-08N3h9_CYBch4-i6nc_DQzu0-a5rXpGozpJBR1M0iIh0JS_87HjmP9ZlPHqyYHcS64OceXQ=w2400"/></div><div class="info"><img src="https://lh3.googleusercontent.com/bBoGR9vtGgzPjrWr8Es0FCx4JivWsftydi4mwLvusDDC53MgDTZu9vJEiN40TOOsgtDBzp6P-sf_N6AfeORyYkM_xKLm26KH140ewQw_AqTi9pNsP09-OHMGWKNdUzi3whVrSQn6bQ=w2400"/><span class="title">知网学术翻译</span><span class="desc">Zhiwang Academic Translation</span></div></a></div>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Tags</title>
       <link href="/tags/index.html"/>
       <url>/tags/index.html</url>
@@ -802,6 +769,39 @@
       <url>/videos/index.html</url>
       
         <content type="html"><![CDATA[<h1 id="Contents"><a href="#Contents" class="headerlink" title="Contents"></a>Contents</h1><!-- toc --><hr><h1 id="1-Hexo-Blog-Building-in-Chinese"><a href="#1-Hexo-Blog-Building-in-Chinese" class="headerlink" title="1. Hexo Blog Building (in Chinese)"></a>1. Hexo Blog Building (in Chinese)</h1><p>cs</p><h1 id="2-Seismology"><a href="#2-Seismology" class="headerlink" title="2. Seismology"></a>2. Seismology</h1><iframe width="100%" height="515" src="https://www.youtube.com/embed/u6-mJ6TCi6o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><iframe width="100%" height="515" src="https://www.youtube.com/embed/mFXlIw_Dbbc?list=PL65Sq-36kXK5XjSrdJMC5XUZtjpKFLQRf" title="Seismic Wave Propagation (Part 2)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/js/runtime.js"/>
+      <url>/js/runtime.js</url>
+      
+        <content type="html"><![CDATA[var now = new Date;function createtime(){now.setTime(now.getTime()+1e3);    /* e, t, a这3个参数与旅行者号相关 */var e = new Date("02/27/2022 15:00:00"),    /* 这是时间单纯是凑出来的: 可能需要经常校正 */    t = Math.trunc(234e8+(now-e)/1e3*17),    a = (t/1496e5).toFixed(6),    /* 以下参数与网站运行时间相关 */    o = new Date("09/28/2018 10:25:12"),   /* 这是blog运行的起始时间 */    r = (now-o)/1e3/60/60/24,    i = Math.floor(r),    n = (now-o)/1e3/60/60-24*i,    s = Math.floor(n);1 == String(s).length&&(s="0"+s);var l = (now-o)/1e3/60-1440*i-60*s,    g = Math.floor(l);1==String(g).length&&(g="0"+g);var d = (now-o)/1e3-86400*i-3600*s-60*g,    b = Math.round(d);1==String(b).length&&(b="0"+b);let c = "";    c = s<18&&s>=9?`<img class='boardsign' src='https://img.shields.io/badge/Coffee-Working%20(%E3%84%92o%E3%84%92)-1ade23?style=social&logo=Buy%20Me%20A%20Coffee' title='什么时候能够实现财富自由呀~'><br> Boyu's blog has been up and running for ${i} days ${s} hours ${g} minutes ${b} seconds <i id="heartbeat" class='fas fa-heartbeat'></i> <br> The distance of Voyager 1 from Earth is currently ${t} km, equivalent to ${a} AU 🚀 <br> 第一，生存是文明的第一需要；第二，文明不断增长和扩张，但宇宙中的物质总量保持不变 ✨ `:`<img class='boardsign' src='https://img.shields.io/badge/Coffee-Relaxing%20(o%EF%BE%9F%E2%96%BD%EF%BE%9F)o-6adea8?style=social&logo=coffeescript' title='下班了就该开开心心地玩耍~'><br> Boyu's blog has been up and running for ${i} days ${s} hours ${g} minutes ${b} seconds <i id="heartbeat" class='fas fa-heartbeat'></i> <br> The distance of Voyager 1 from Earth is currently ${t} km, equivalent to ${a} AU 🚀 <br> 第一，生存是文明的第一需要；第二，文明不断增长和扩张，但宇宙中的物质总量保持不变 ✨ `,document.getElementById("workboard")&&(document.getElementById("workboard").innerHTML=c)}    setInterval((()=>{createtime()}),1e3);    /* 内容要修改，两个重复的部分都要修改 */    /* 中间的长链接是social shields，可以直接输入浏览器中边看边改 */]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/js/light.js"/>
+      <url>/js/light.js</url>
+      
+        <content type="html"><![CDATA[// 夜间霓虹灯效果// 颜色数组var arr = ["#39c5bb", "#f14747", "#f1a247", "#f1ee47", "#b347f1", "#1edbff", "#ed709b", "#5636ed"];// 颜色索引var idx = 0;// 切换颜色function changeColor() {    // 仅夜间模式才启用    if (document.getElementsByTagName('html')[0].getAttribute('data-theme') == 'dark') {        if (document.getElementById("site-name"))            document.getElementById("site-name").style.textShadow = arr[idx] + " 0 0 15px";        if (document.getElementById("site-title"))            document.getElementById("site-title").style.textShadow = arr[idx] + " 0 0 15px";        if (document.getElementById("site-subtitle"))            document.getElementById("site-subtitle").style.textShadow = arr[idx] + " 0 0 10px";        if (document.getElementById("post-info"))            document.getElementById("post-info").style.textShadow = arr[idx] + " 0 0 5px";        try {            document.getElementsByClassName("author-info__name")[0].style.textShadow = arr[idx] + " 0 0 12px";            document.getElementsByClassName("author-info__description")[0].style.textShadow = arr[idx] + " 0 0 12px";        } catch {                    }        idx++;        if (idx == 8) {            idx = 0;        }    } else {        // 白天模式恢复默认        if (document.getElementById("site-name"))            document.getElementById("site-name").style.textShadow = "#1e1e1ee0 1px 1px 1px";        if (document.getElementById("site-title"))            document.getElementById("site-title").style.textShadow = "#1e1e1ee0 1px 1px 1px";        if (document.getElementById("site-subtitle"))            document.getElementById("site-subtitle").style.textShadow = "#1e1e1ee0 1px 1px 1px";        if (document.getElementById("post-info"))            document.getElementById("post-info").style.textShadow = "#1e1e1ee0 1px 1px 1px";        try {            document.getElementsByClassName("author-info__name")[0].style.textShadow = "";            document.getElementsByClassName("author-info__description")[0].style.textShadow = "";        } catch {                    }    }}// 开启计时器window.onload = setInterval(changeColor, 1200);]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/js/universe.js"/>
+      <url>/js/universe.js</url>
+      
+        <content type="html"><![CDATA[/* 夜间流星特效 */function dark() {window.requestAnimationFrame=window.requestAnimationFrame||window.mozRequestAnimationFrame||window.webkitRequestAnimationFrame||window.msRequestAnimationFrame;var n,e,i,h,t=.05,s=document.getElementById("universe"),o=!0,a="180,184,240",r="226,225,142",d="226,225,224",c=[];function f(){n=window.innerWidth,e=window.innerHeight,i=.216*n,s.setAttribute("width",n),s.setAttribute("height",e)}function u(){h.clearRect(0,0,n,e);for(var t=c.length,i=0;i<t;i++){var s=c[i];s.move(),s.fadeIn(),s.fadeOut(),s.draw()}}function y(){this.reset=function(){this.giant=m(3),this.comet=!this.giant&&!o&&m(10),this.x=l(0,n-10),this.y=l(0,e),this.r=l(1.1,2.6),this.dx=l(t,6*t)+(this.comet+1-1)*t*l(50,120)+2*t,this.dy=-l(t,6*t)-(this.comet+1-1)*t*l(50,120),this.fadingOut=null,this.fadingIn=!0,this.opacity=0,this.opacityTresh=l(.2,1-.4*(this.comet+1-1)),this.do=l(5e-4,.002)+.001*(this.comet+1-1)},this.fadeIn=function(){this.fadingIn&&(this.fadingIn=!(this.opacity>this.opacityTresh),this.opacity+=this.do)},this.fadeOut=function(){this.fadingOut&&(this.fadingOut=!(this.opacity<0),this.opacity-=this.do/2,(this.x>n||this.y<0)&&(this.fadingOut=!1,this.reset()))},this.draw=function(){if(h.beginPath(),this.giant)h.fillStyle="rgba("+a+","+this.opacity+")",h.arc(this.x,this.y,2,0,2*Math.PI,!1);else if(this.comet){h.fillStyle="rgba("+d+","+this.opacity+")",h.arc(this.x,this.y,1.5,0,2*Math.PI,!1);for(var t=0;t<30;t++)h.fillStyle="rgba("+d+","+(this.opacity-this.opacity/20*t)+")",h.rect(this.x-this.dx/4*t,this.y-this.dy/4*t-2,2,2),h.fill()}else h.fillStyle="rgba("+r+","+this.opacity+")",h.rect(this.x,this.y,this.r,this.r);h.closePath(),h.fill()},this.move=function(){this.x+=this.dx,this.y+=this.dy,!1===this.fadingOut&&this.reset(),(this.x>n-n/4||this.y<0)&&(this.fadingOut=!0)},setTimeout(function(){o=!1},50)}function m(t){return Math.floor(1e3*Math.random())+1<10*t}function l(t,i){return Math.random()*(i-t)+t}f(),window.addEventListener("resize",f,!1),function(){h=s.getContext("2d");for(var t=0;t<i;t++)c[t]=new y,c[t].reset();u()}(),function t(){document.getElementsByTagName('html')[0].getAttribute('data-theme')=='dark'&&u(),window.requestAnimationFrame(t)}()};dark()]]></content>
       
     </entry>
     
